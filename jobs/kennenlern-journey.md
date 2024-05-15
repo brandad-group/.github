@@ -67,7 +67,7 @@ Egal, ob unsere gemeinsame Reise hier endet oder nicht:
 - Du bekommst außerdem bald eine E-Mail mit der Bitte, den [Bewerbungsprozess](https://brandad.dev/jobs) zu bewerten \*zwinkerzwinker\*.
 - Ob Bewerberin, Mitarbeiter oder Alumni: Wir freuen uns immer über deine Bewertung bei [kununu](https://short.bas.ag/kununu) & Co.!
 
- ![Choose your path!](../assets/twigs.png)
+ ![Choose your path!](../assets/paths.png)
 
 **Lob hilft neuen Bewerberinnen und Bewerbern, [den Weg zu uns zu finden](https://short.bas.ag/kununu) – Kritik hilft uns, uns weiterzuentwickeln. Danke, dass du dir diese Zeit nimmst!**
 
