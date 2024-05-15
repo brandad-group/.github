@@ -14,7 +14,7 @@ Aber: Selbstorganisation ist viel Arbeit. Oft ist sie auch anstrengend. Der Lohn
 
 Wir verstehen gut, falls du dir das nicht zutrauen oder zumuten magst. Kein Problem. Alles Gute für deinen weiteren Weg – danke für dein Interesse und deine Zeit bis hier. Wir haben auch noch ein [kleines Dankeschön](https://www.youtube.com/watch?v=dQw4w9WgXcQ) für dich.
 
-Noch da? Gut. Dann bedanken wir uns auch bei dir, weil du neugierig bist und noch mehr erfahren willst. Weil du wahrscheinlich bereit bist, eine große und großartige Veränderung in deinem Berufsleben in Betracht zu ziehen. Vielleicht sogar, Arbeit insgesamt neu zu denken. Danke, dass du dir die Zeit nimmst, auch *nach* diesem Anschreiben noch weiterzulesen – im Anhang findest du unseren Lebenslauf und weitere Details zu ==unseren neu zu besetzenden Stellen==.
+Noch da? Gut. Dann bedanken wir uns auch bei dir, weil du neugierig bist und noch mehr erfahren willst. Weil du wahrscheinlich bereit bist, eine große und großartige Veränderung in deinem Berufsleben in Betracht zu ziehen. Vielleicht sogar, Arbeit insgesamt neu zu denken. Danke, dass du dir die Zeit nimmst, auch *nach* diesem Anschreiben noch weiterzulesen – im Anhang findest du unseren [Lebenslauf](lebenslauf.md) und [weitere Details zu unseren neu zu besetzenden Stellen](jobs.md).
 
 Wir verbleiben in Hoffnung auf eine rasche Antwort und ein baldiges Kennenlernen. Falls du Fragen hast oder einen „Einfach mal Kaffeetrinken und unterhalten“-Termin ausmachen möchtest – gerne virtuell oder analog –, meld dich einfach bei uns.
 

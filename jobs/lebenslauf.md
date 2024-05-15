@@ -1,4 +1,4 @@
-# Wir bewerben uns bei dir | Lebenslauf
+# Wir bewerben uns bei dir – Lebenslauf
 
 1999: Wir gründen die MultiVisual GmbH und sammeln erster Erfahrungen in Sachen Start-up und Marketingportale. 
 `#marketing` `#softwareentwicklung` `#startup`

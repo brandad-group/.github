@@ -1,4 +1,4 @@
-# Candidate Journey – BRANDAD Development GmbH
+# Das erwartet dich als Candidate bei BRANDAD
 
  ![](https://brandad.dev/templates/yootheme/cache/b4/header-candidate-journey-brandad-b4bb2abe.jpeg)
 
@@ -60,6 +60,8 @@ Weiterbildung hat bei uns großen Stellenwert; was du aber wann lernen möchtest
 ### 2.5 Mitgestaltung
 
 Neben deiner täglichen Arbeit hast du viele Möglichkeiten, dich einzubringen und an der Zukunft von BRANDAD mitzuwirken: in unserem zweiwöchentlichen Open Space zum Beispiel. Oder in einer von vielen selbstorganisierten Communities of Practice. Oder in einem virtuellen Team zu einem konkreten Thema.
+
+---
 
 Egal, ob unsere gemeinsame Reise hier endet oder nicht:
 
