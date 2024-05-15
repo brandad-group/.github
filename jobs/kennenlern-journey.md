@@ -63,11 +63,9 @@ Neben deiner täglichen Arbeit hast du viele Möglichkeiten, dich einzubringen u
 
 Egal, ob unsere gemeinsame Reise hier endet oder nicht:
 
-Wir haben stets ein offenes Ohr und Postfach – lass uns also gerne via [E-Mail](https://short.bas.ag/mailjobs) oder [LinkedIn](https://short.bas.ag/linkedin) in Kontakt bleiben!
-
-Du bekommst außerdem bald eine E-Mail mit der Bitte, den [Bewerbungsprozess](https://brandad.dev/jobs) zu bewerten \*zwinkerzwinker\*.
-
-Ob Bewerberin, Mitarbeiter oder Alumni: Wir freuen uns immer über deine Bewertung bei [kununu](https://short.bas.ag/kununu) & Co.!
+- Wir haben stets ein offenes Ohr und Postfach – lass uns also gerne via [E-Mail](https://short.bas.ag/mailjobs) oder [LinkedIn](https://short.bas.ag/linkedin) in Kontakt bleiben!
+- Du bekommst außerdem bald eine E-Mail mit der Bitte, den [Bewerbungsprozess](https://brandad.dev/jobs) zu bewerten \*zwinkerzwinker\*.
+- Ob Bewerberin, Mitarbeiter oder Alumni: Wir freuen uns immer über deine Bewertung bei [kununu](https://short.bas.ag/kununu) & Co.!
 
  ![Choose your path!](../assets/twigs.png)
 
