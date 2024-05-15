@@ -16,6 +16,7 @@ In einem ersten Termin mit Natalia aus unserem Employee-Relationship-Team lernen
 
 Beim nächsten Termin ist neben Natalia auch unser CEO Joachim oder unser COO Torsten mit im Boot – denn jetzt wollen wir checken, ob wir ähnliche Vorstellungen vom „Wie und Warum?“ in Sachen Arbeit haben, und was du über unsere **[#Entwicklungskultur](https://brandad.dev/deine-candidate-journey-bei-uns#entwicklungskultur)** und deine zukünftige Weiterentwicklung denkst.
 
+### 1.3 Fachlicher Deep Dive
 ```
 dev@application:~$ cat DEEP\ DIVE.txt
 In einer Programmier-Session prüft unsere Deep- Dive-Crew den fachlichen Fit, vor allem aber auch 
@@ -26,7 +27,7 @@ dev@application:~$ █
 
 [![Developer](../assets/developer-thumb.jpg)](../assets/developer.jpg)
 
-### 1.3 Team Fit
+### 1.4 Team Fit
 
 Im wahrscheinlich wichtigsten Termin lernst du das Team kennen, in dem die Stelle zu besetzen ist – und das Team natürlich auch dich. Stimmt der Vibe? Könnt ihr euch eine Zusammenarbeit vorstellen? Weiter geht es nur bei einem klaren „JA!“ von beiden Seiten.
 
@@ -35,8 +36,6 @@ Im wahrscheinlich wichtigsten Termin lernst du das Team kennen, in dem die Stell
 > Vier Vorab-Termine sind viel? Stimmt. Wir wollen dich in diesen 2 bis 4 Wochen möglichst gut kennenlernen und auch dir ein vollständiges Bild davon geben, was dich bei BRANDAD erwartet. Ein solides Fundament schaffen. **Schon allein, weil das Wort „Fun“ in Fundament steckt!**
 
 ---
-
- ![](https://brandad.dev/templates/yootheme/cache/20/team-20448826.png)
 
 ## 2 Nach der Unterschrift:
 
@@ -52,13 +51,11 @@ Erst wenn du und dein Team zusammengewachsen seid, geht es ab zum Kunden. Als Te
 
 Ab hier gibt es keinen weiteren, starren Karriere-Weg. Das heißt aber nicht, dass du in dem Job feststeckst, für den du ursprünglich mal unterschrieben hast. Versteh das viel mehr als einen Startpunkt – und wo genau dich der weitere Weg hinführt? Das finden wir beizeiten dann zusammen heraus!
 
- ![](https://brandad.dev/templates/yootheme/cache/46/rakete-461fe42b.png)
+[![Rocket](../assets/rocket-thumb.png)](../assets/rocket.png)
 
 ### 2.4 #Entwicklungskultur
 
 Weiterbildung hat bei uns großen Stellenwert; was du aber wann lernen möchtest, liegt allein bei dir. Du hast für deine Weiterentwicklung ein festes Zeitkontingent und Budget(!) zur freien Verfügung. Auf internen und externen Konferenzen knüpfst du außerdem Netzwerke und gibst dein Wissen großzügig weiter.
-
-[![Rocket](../assets/rocket-thumb.jpg)](../assets/rocket.jpg)
 
 ### 2.5 Mitgestaltung
 
@@ -76,4 +73,4 @@ Ob Bewerberin, Mitarbeiter oder Alumni: Wir freuen uns immer über deine Bewertu
 
 **Lob hilft neuen Bewerberinnen und Bewerbern, [den Weg zu uns zu finden](https://short.bas.ag/kununu) – Kritik hilft uns, uns weiterzuentwickeln. Danke, dass du dir diese Zeit nimmst!**
 
-[![Recommendation](../assets/recommendation-thumb.jpg)](../assets/recommendation.jpg)
+[![Recommendation](../assets/recommendation-thumb.png)](../assets/recommendation.png)
