@@ -1,5 +1,5 @@
-[![](assets/brandad_title_banner.jpg)](https://brandad.dev/kontakt)
+[![](assets/brandad_title_banner.jpg)](profile/README.md)
 
 # Hi. Wir sind BRANDAD.
 
-=> [Read me.](profile/REAME.md)
+=> [Read me.](profile/README.md)

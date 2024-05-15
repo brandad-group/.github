@@ -1,4 +1,4 @@
-[![](assets/brandad_title_banner.jpg)](https://brandad.dev/kontakt)
+[![](../assets/brandad_title_banner.jpg)](https://brandad.dev/kontakt)
 
 # Hi. Wir sind BRANDAD.
 
