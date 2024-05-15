@@ -17,8 +17,10 @@ In einem ersten Termin mit Natalia aus unserem Employee-Relationship-Team lernen
 Beim nächsten Termin ist neben Natalia auch unser CEO Joachim oder unser COO Torsten mit im Boot – denn jetzt wollen wir checken, ob wir ähnliche Vorstellungen vom „Wie und Warum?“ in Sachen Arbeit haben, und was du über unsere **[#Entwicklungskultur](https://brandad.dev/deine-candidate-journey-bei-uns#entwicklungskultur)** und deine zukünftige Weiterentwicklung denkst.
 
 ```
-dev@application:~$ cat DEEP\\ DIVE.txt
-In einer Programmier-Session prüft unsere Deep- Dive-Crew den fachlichen Fit, vor allem aber auch deine Arbeits- und Herangehensweise. Ganz nebenbei lernst du freilich auch eine Menge über uns und dein zukünftiges(?) Arbeitsumfeld.  
+dev@application:~$ cat DEEP\ DIVE.txt
+In einer Programmier-Session prüft unsere Deep- Dive-Crew den fachlichen Fit, vor allem aber auch 
+deine Arbeits- und Herangehensweise. Ganz nebenbei lernst du freilich auch eine Menge über uns und 
+dein zukünftiges(?) Arbeitsumfeld.
 dev@application:~$ █
 ```
 
