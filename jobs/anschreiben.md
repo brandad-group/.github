@@ -1,6 +1,6 @@
-# Wir bewerben uns bei dir | Anschreiben
+# Wir bewerben uns bei dir – Anschreiben
 
-**Betreff: Bewerbung als dein nächster Arbeitgeber**
+`Betreff: Bewerbung als dein nächster Arbeitgeber`
 
 Hey.
 
