@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2024-06-18, 11:19)
+## aktuelle Jobs (zuletzt aktualisiert: 2024-06-18, 11:26)
 
 ### Projektmanager im MarTech-Umfeld  (w/m/d)
 
