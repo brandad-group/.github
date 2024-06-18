@@ -1,13 +1,15 @@
 import job_fetcher
 import markdown_converter
+from pathlib import Path
 
 # Example usage:
 # converter = JobMarkdownConverter('path_to_job_listings.csv')
 # converter.process_jobs()
 
-jf = job_fetcher.JobFetcher("jobs.csv")
-converter = markdown_converter.JobMarkdownConverter("jobs.csv")
+p = Path(__file__).parent.resolve()
+jf = job_fetcher.JobFetcher(p / "jobs.csv")
+converter = markdown_converter.JobMarkdownConverter(p / "jobs.csv")
 jf.fetch_jobs()
 jobs = converter.read_csv()
-converter.save_to_markdown_file(converter.convert_to_markdown(jobs), "jobs.md")
-converter.merge_markdown_files("jobs.md", "../profile/README.md")
+converter.save_to_markdown_file(converter.convert_to_markdown(jobs), p / "jobs.md")
+converter.merge_markdown_files(p / "jobs.md", p / ".." / "profile" / "README.md")

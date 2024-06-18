@@ -2,6 +2,7 @@ import requests
 import csv
 import os
 from dotenv import load_dotenv
+from pathlib import Path
 
 class JobFetcher:
     def __init__(self, csv_path = None):
@@ -32,7 +33,8 @@ class JobFetcher:
             raise ValueError('Check your .env variables!')
 
         if csv_path is None:
-            csv_path = "jobs.csv"
+            p = Path(__file__).parent.resolve()
+            csv_path = p / "jobs.csv"
         self.csv_path = csv_path
 
     def fetch_jobs(self):
