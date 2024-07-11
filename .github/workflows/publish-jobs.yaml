@@ -23,3 +23,10 @@ jobs:
         run: pip install python-dotenv requests
       - name: Exec python script
         run: python job-api/main.py
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          API_PATH: ${{ vars.API_PATH }}
+          FTP_SERVER: ${{ vars.FTP_SERVER }}
