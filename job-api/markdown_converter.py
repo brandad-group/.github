@@ -38,8 +38,8 @@ class JobMarkdownConverter:
             if job['geo_country'] not in job['geo_name']:
                 markdown_content += f", {job['geo_country']}"
             markdown_content += "\n"
-            markdown_content += f"- **Wer?** {"/".join(self.jobexperience_mappings[x] for x in eval(job['workExperiences']))}\n"
-            markdown_content += f"- **Wie?** {"/".join(self.job_or_trainee_mappings[x] for x in eval(job['employmentTypes']))} {"/".join(self.full_or_parttime_mappings[x] for x in eval(job['workTimes']))}\n"
+            markdown_content += f"- **Wer?** {'/'.join(self.jobexperience_mappings[x] for x in eval(job['workExperiences']))}\n"
+            markdown_content += f"- **Wie?** {'/'.join(self.job_or_trainee_mappings[x] for x in eval(job['employmentTypes']))} {'/'.join(self.full_or_parttime_mappings[x] for x in eval(job['workTimes']))}\n"
             markdown_content += f"- **Wie genau?** {self.translate_remote_status(job['remote_status'])}\n"
             summary = self.summarize_description(job['jobAdText'])
             markdown_content += f"- **Was? (automatisch gekürzt)** {summary} ...\n"
