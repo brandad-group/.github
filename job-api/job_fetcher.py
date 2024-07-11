@@ -3,11 +3,19 @@ import csv
 from pathlib import Path
 
 class JobFetcher:
+    client_id:str|None
+    password:str|None
+    api_path:str|None
+    base_url:str|None = "https://api.softgarden.io"
+
     def __init__(self, csv_path = None, client_id = None, password = None, api_path = None):
-        self.client_id = client_id # os.getenv("CLIENT_ID")
-        self.password = password # os.getenv("PASSWORD")
-        self.api_path = api_path # os.getenv("API_PATH")
-        self.base_url = "https://api.softgarden.io"
+        self.client_id = client_id
+        self.password = password
+        self.api_path = api_path
+
+        if not all([self.client_id, self.password, self.api_path, self.base_url]):
+            raise ValueError('Check your .env variables!')
+
         self.job_or_trainee_mappings = {
             "2": "Auszubildendenstelle",
             "6": "Festanstellung",
@@ -25,9 +33,6 @@ class JobFetcher:
         self.jobexperience_mappings = {
             "1b4f51fe628c4119a2d7a581557d0944": "mit Berufserfahrung"
         }
-
-        if not all([self.client_id, self.password, self.api_path]):
-            raise ValueError('Check your .env variables!')
 
         if csv_path is None:
             p = Path(__file__).parent.resolve()

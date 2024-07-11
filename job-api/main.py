@@ -12,9 +12,9 @@ if env_file_path is None:
 p = Path(__file__).parent.resolve()
 jf = job_fetcher.JobFetcher(
     p / "jobs.csv",
-    os.getenv("CLIENT_ID"),
-    os.getenv("PASSWORD"),
-    os.getenv("API_PATH")
+    os.environ.get("CLIENT_ID"),
+    os.environ.get("PASSWORD"),
+    os.environ.get("API_PATH")
 )
 converter = markdown_converter.JobMarkdownConverter(p / "jobs.csv")
 ftp = ftp_uploader.FTPUploader(
