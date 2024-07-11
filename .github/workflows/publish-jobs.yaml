@@ -20,6 +20,6 @@ jobs:
         with:
           python-version: '3.10'
       - name: Install dependencies
-        run: pip install python-dotenv
+        run: pip install python-dotenv requests
       - name: Exec python script
         run: python job-api/main.py
