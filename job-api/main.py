@@ -2,11 +2,26 @@ import job_fetcher
 import markdown_converter
 import ftp_uploader
 from pathlib import Path
+import os
+from dotenv import load_dotenv
+
+env_file_path = os.environ.get('GITHUB_ENV', None)
+if env_file_path is None:
+    load_dotenv()
 
 p = Path(__file__).parent.resolve()
-jf = job_fetcher.JobFetcher(p / "jobs.csv")
+jf = job_fetcher.JobFetcher(
+    p / "jobs.csv",
+    os.getenv("CLIENT_ID"),
+    os.getenv("PASSWORD"),
+    os.getenv("API_PATH")
+)
 converter = markdown_converter.JobMarkdownConverter(p / "jobs.csv")
-ftp = ftp_uploader.FTPUploader()
+ftp = ftp_uploader.FTPUploader(
+    os.getenv("FTP_SERVER"),
+    os.getenv("FTP_USER"),
+    os.getenv("FTP_PASSWORD")
+)
 
 jf.fetch_jobs()
 jobs = converter.read_csv()

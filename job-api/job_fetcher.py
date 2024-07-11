@@ -1,15 +1,12 @@
 import requests
 import csv
-import os
-from dotenv import load_dotenv
 from pathlib import Path
 
 class JobFetcher:
-    def __init__(self, csv_path = None):
-        load_dotenv()
-        self.client_id = os.getenv("CLIENT_ID")
-        self.password = os.getenv("PASSWORD")
-        self.api_path = os.getenv("API_PATH")
+    def __init__(self, csv_path = None, client_id = None, password = None, api_path = None):
+        self.client_id = client_id # os.getenv("CLIENT_ID")
+        self.password = password # os.getenv("PASSWORD")
+        self.api_path = api_path # os.getenv("API_PATH")
         self.base_url = "https://api.softgarden.io"
         self.job_or_trainee_mappings = {
             "2": "Auszubildendenstelle",

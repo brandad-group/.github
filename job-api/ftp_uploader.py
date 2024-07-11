@@ -2,27 +2,29 @@ from ftplib import FTP_TLS
 import os
 
 class FTPUploader:
-    user:str = ""
-    password:str = ""
-    default_server_address:str = ""
+    user:str|None
+    password:str|None
+    server_address:str|None
 
-    def __init__(self, user = None, password = None, server = None) -> None:
-        self.user = user if user is not None else os.getenv("FTP_USER", "")
-        self.password = password if password is not None else os.getenv("FTP_PASSWORD", "")
-        self.server = server if server is None else os.getenv('FTP_SERVER', '')
+    def __init__(self, server = None, user = None, password = None) -> None:
+        self.user = user
+        self.password = password
+        self.server_address = server
+
+        if not all([self.user, self.password, self.server_address]):
+            raise ValueError('Check your .env variables!')
 
     def upload(self, file, target_filename = "jobs.csv", server = None)->bool:
         if server is None:
-            server = self.default_server_address
+            server = self.server_address
         target_filename = os.path.basename(file)
         try:
-            session = FTP_TLS(server,self.user,self.password)
+            session = FTP_TLS(server,str(self.user),str(self.password))
             session.prot_p()
-            binary_file = open(file,'rb')                  # file to send
-            session.storbinary(f'STOR {target_filename}', binary_file)     # send the file
-            binary_file.close()                                    # close file and FTP
+            with open(file,'rb') as binary_file:                  # file to send
+                session.storbinary(f'STOR {target_filename}', binary_file)     # send the file
             session.quit()
             return True
         except Exception as e:
-            print(e)
+            print(f'FTP-ERROR: {e}')
             return False

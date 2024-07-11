@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2024-06-20, 08:40)
+## aktuelle Jobs (zuletzt aktualisiert: 2024-07-11, 11:12)
+
+### Senior Scrum Master/Agile Coach (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Voll- oder Teilzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Den Job als Scrum Master/Agile Coach müssen wir dir nicht erklären, deine Rolle kennst du selbst am besten. DAS IST DEIN UMFELD:  Du begleitest genau ein Software-Entwicklungsteam auf seinem Weg, so dass du den Fokus auf das Team halten kannst und auch genug Zeit hast, innerhalb des Unternehmens Dein Umfeld mitzugestalten. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636793) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636793&ADP)
+
+---
 
 ### Projektmanager im MarTech-Umfeld  (w/m/d)
 
@@ -38,17 +49,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DIESE AUFGABEN WARTEN AUF DICH: Wir erklären dir als Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst – nichthier und auch nicht, wenn du bei uns anfängst. Deine Eigenverantwortung sowie die Verantwortungdeinen Kolleginnen und Kollegen gegenüber sind uns immens wichtig. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637498) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP)
-
----
-
-### Senior Scrum Master/Agile Coach (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Voll- oder Teilzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Den Job als Scrum Master/Agile Coach müssen wir dir nicht erklären, deine Rolle kennst du selbst am besten. DAS IST DEIN UMFELD:  Du begleitest genau ein Software-Entwicklungsteam auf seinem Weg, so dass du den Fokus auf das Team halten kannst und auch genug Zeit hast, innerhalb des Unternehmens Dein Umfeld mitzugestalten. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636793) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636793&ADP)
 
 ---
 
