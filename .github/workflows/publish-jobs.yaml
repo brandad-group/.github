@@ -1,0 +1,25 @@
+name: "Publish Softgarden Jobs on Website"
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    # The branches below must be a subset of the branches above
+    branches: [ "main" ]
+    types: [ "closed" ]
+  schedule:
+    - cron: '1 7 * * *'
+
+jobs:
+  generate-jobs:
+    runs-on: ubuntu-latest
+    environment: brandad.de
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install python-dotenv
+      - name: Exec python script
+        run: python job-api/main.py

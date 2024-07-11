@@ -1,39 +1,119 @@
-## Hi there 👋
+[![](../assets/brandad_title_banner.jpg)](https://brandad.dev/kontakt)
 
-Unternehmen ohne Fokus werden schnell irrelevant – deshalb haben wir uns vor nicht allzu langer Zeit als Unternehmensgruppe neu erfunden. Zur **BRANDAD Group AG** gehören zwei Tochtergesellschaften: Die **BRANDAD Solutions GmbH** steht mit dem Marketingportal [Brand Base](#brand-base-by-brandad) großen wie kleinen Marken zur Seite, um Marketing dezentral zu organisieren. Die **BRANDAD Development GmbH** versetzt mit einem radikalen [Teams as a Service](#teams-as-a-service-by-brandad)-Ansatz Unternehmen in die Lage, Software-Projekte schnell und agil auf die Straße zu bringen. Die BRANDAD-Gruppe beheimatet außerdem das Work in Fürth – Co-Working-Space, Netzknoten und Anlaufstelle für alle, die wie wir Wissen gerne verschwenderisch teilen.
+# Hi. Wir sind BRANDAD. 👋
 
-Auf dem Papier mögen wir mehrere Unternehmen sein, aber uns eint eine Leidenschaft: Hier brennen rund 100 Kolleginnen und Kollegen dafür, Verantwortung für ihre Arbeit zu übernehmen. Neue Wege zu suchen. Kreativität über Konvention und Neugier über Titel zu stellen. Auszuprobieren. Zu lernen. Zu scheitern, sich wieder aufzurappeln und um eine Erkenntnis reicher weiterzugehen. Und das fast ohne vertikale Hierarchien in selbstorganisierten marktzentrierten Teams. Das ist BRANDAD, nein, **wir sind BRANDAD!** 
+Und wir haben dieses Repository angelegt und aufgehübscht, damit uns mögliche neue Kolleginnen und Kollegen (spannend) finden. Sollte dich also die Suche nach einem coolen neuen Arbeitgeber hergeführt haben, dann zeigen wir uns dir gerne von unserer besten Seite => [https://brandad.dev](https://brandad.dev/jobs?utm_source=web&utm_medium=github&utm_campaign=recruiting-offensive2024)
 
-<!-- [Bist du BRANDAD genug?](#jobs-bei-brandad) -->
+Okay, okay, der Witz mit der „besten Seite“ und unserer Job-Webseite ist ziemlich flach – aber immerhin hast du bis hier gelesen. Höchste Zeit, dass du uns etwas näher kennenlernst. Am besten geht das, indem du dich hier etwas umsiehst:
 
-<!-- ![BRANDAD-Logo](assets/brandad-logo.png) -->
+- **so ticken wir**: Unser [devOS – Operating System of Excellence](/brandad-group/devOS) ist das Herzstück von BRANDAD Development. Die DNS, wenn du so willst – aber nicht die mir der Namensauflösung, sondern die mit den Genen. Dieses *Betriebssystem* haben all unsere Kolleginnen und Kollegen gemeinsam entwickelt; und da stehen unzählige „So arbeiten wir heute schon“ neben ganz vielen „So ticken wir“, ergänzt um einige „So wollen wir morgen arbeiten“. Das ist unser Wegweiser. Unser Nordstern.
+- **das passiert nach einer Bewerbung bei uns**: Du bist schon auf einem sehr guten Weg, uns näher kennenzulernen. Solltest du in Erwägung ziehen, dich bei uns zu bewerben, zeigen wir dir hier ganz genau auf, wie die nächsten Schritte aussehen könnten. Nenn es *Recruiting-Transparenz* oder einen *Open-Source-Bewerbungsprozess* – wir nennen es gerne einfach [unsere Kennenlern-Journey](../jobs/kennenlern-journey.md).
+- **unsere [Stellenanzeigen](../jobs/jobs.md)**: Stellenangebote? Direkt auf Github? Wow!
+- **unser [Blog](https://brandad.dev/blog?utm_source=web&utm_medium=github&utm_campaign=recruiting-offensive2024)**: Du kriegst von uns nicht genug? Dann lies gerne hier weiter.
 
-## Unsere Produkte
+Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir uns gerne bei dir als dein nächster Arbeitgeber. Hier ist unser [Anschreiben](../jobs/anschreiben.md) und hier unser [Lebenslauf](../jobs/lebenslauf.md).
 
-### Brand Base (by BRANDAD)
+[![BRANDAD-Logo](../assets/brandad_logo.png)](https://brandad.dev?utm_source=web&utm_medium=github&utm_campaign=recruiting-offensive2024)
 
-Professionelles Marketing für alle Vertriebspartner – egal, an welchem Ort und egal über welchen Kanal: mit **Brand Base**, unserem schnellen und einfachen Marketingportal, powered by AI. 
+---
 
-[Finde heraus, was Brand Base für dich leisten kann.](https://brandad-solutions.de)
+## aktuelle Jobs (zuletzt aktualisiert: 2024-06-20, 08:40)
 
-### Teams as a Service (by BRANDAD)
+### Projektmanager im MarTech-Umfeld  (w/m/d)
 
-Teams as a Service klingt nach Arbeitnehmerüberlassung? Nach Auftragsentwicklung? Nein, es ist noch viel besser: Du buchst bei uns ein eingespieltes, crossfunktionales Dev-Team, das sofort loslegen kann. Ohne viel Risiko – und vor allem ohne die Unwägbarkeiten beim Aufbau eines neuen Teams. 
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** Mit unserer Marketing-Plattform Brand Base helfen wir großen Marken und ihren Partnern am Point of Sale (POS) dabei, erfolgreiches lokales Marketing zu machen – maximal effektiv, automatisiert und über alle Kanäle hinweg. Viele großartige Menschen sind bereits an Bord der BRANDAD Solutions, um diese Mission gemeinsam zu bestreiten. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/45230017) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=45230017&ADP)
 
-[Lerne, wie Teams as a Service für dich zum Gamechanger werden kann.](https://brandad.dev/teams-as-a-service)
+---
 
-## Das BRANDAD devOS
+### Softwareentwickler (w/m/d) - Frontend
 
-Auf der Suche nach Werten, einer Mission und einer Vision haben wir vor nicht allzu langer Zeit die Köpfe zusammengesteckt und festgehalten, was uns als Unternehmen, aber auch als Einzelpersonen wichtig ist. Das Destillat daraus ist unser devOS, ein Betriebssystem für die Organisation, auf das wir uns im Zweifelsfall berufen, das uns bei komplexen Fragen den Weg weist und für das wir zwei Grundsätze haben: kompromisslose Transparenz (das Ganze steht auf hier Github) und aktives Einbeziehen aller Beteiligten (wir wiederholen: das Ganze steht hier auf Github).
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DIESE AUFGABEN WARTEN AUF DICH: Wir erklären dir als Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst – nichthier und auch nicht, wenn du bei uns anfängst. Deine Eigenverantwortung sowie die Verantwortungdeinen Kolleginnen und Kollegen gegenüber sind uns immens wichtig. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637498) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP)
 
-Von den vier Grundpfeilern ARBEITEN, LERNEN, LEBEN und WIRKEN leiten wir gemeinsame Themenfelder ab – und unterhalb davon stehen Commitments, an denen sich jede und jeder Einzelne in der Organisation orientieren kann. Nicht alle Commitments sind heute schon zu 100 Prozent Realität, weshalb wir sie auch als Zielvorstellungen ansehen.
+---
 
-Wem das alles zu selbstreferenziell klingt: Wir sind der festen Überzeugung, dass wir unsere volle WIRKUNG nur dann entfalten, wenn wir auch die Pfeiler ARBEITEN, LERNEN und LEBEN bestmöglich gestalten. Wir legen größten Wert auf Kundenorientierung – verstehen uns dabei aber als Projektpartnerinnen und -partner, die mit viel eigener Erfahrung und Expertise beraten, hinterfragen und lösungsorientiert handeln. Oder anders ausgedrückt: **WIRKEN ist die unmittelbare Konsequenz aus ARBEITEN, LERNEN und LEBEN**.
+### Senior Scrum Master/Agile Coach (w/m/d)
 
-[Link zum Repository](https://github.com/brandad-group/devOS) | [Live-Mind-Map des devOS](https://brandad-group.github.io/devOS/)
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Voll- oder Teilzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Den Job als Scrum Master/Agile Coach müssen wir dir nicht erklären, deine Rolle kennst du selbst am besten. DAS IST DEIN UMFELD:  Du begleitest genau ein Software-Entwicklungsteam auf seinem Weg, so dass du den Fokus auf das Team halten kannst und auch genug Zeit hast, innerhalb des Unternehmens Dein Umfeld mitzugestalten. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636793) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636793&ADP)
 
-<!-- ## Jobs bei BRANDAD -->
+---
 
-<!-- start: softgarden-api-import -->
+### UX/UI Designer (w/m/d)
 
-<!-- end: softgarden-api-import -->
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** AUF DIESE AUFGABENFELDER KANNST DU DICH FREUEN:  In einem crossfunktionalen Entwicklerteam verantwortest du alle Facetten der User Experience. Du übernimmst die Konzeption von ersten Entwürfen bis hin zum finalen UI-Design, dabei steht der Human Centered Design Prozess für dich an erster Stelle. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637288) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637288&ADP)
+
+---
+
+### Softwareentwickler (w/m/d) - Backend
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DIESE AUFGABENFELDER WARTEN AUF DICH:  Du entwickelst neue Produktfeatures und treibst die Verbesserung der Architektur unserer Microservices voran. Im Vorfeld der Sprints analysierst und beurteilst du User Stories. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14638203) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14638203&ADP)
+
+---
+
+### Software­entwickler (w/m/d) - Schwerpunkt: Angular
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS WARTET AUF DICH: Du entwickelst smarte Softwareprodukte mit End-to-End Verantwortung, überblickst den gesamten Entwicklungsprozess und arbeitest u.a. mit Pair-Programming, Code Reviews und Testautomatisierung an Lösungen auf höchstem Qualitäts-Niveau. Tech-Stack (priorisiert): Angular, TypeScript, Java Spring Boot, HTML/JS, JPA, SQL, Microservices, Git, Gradle, Jenkins, CI/CD, Docker, REST, SOAP  TRIFFT DAS AUF DICH ZU? ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637273) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637273&ADP)
+
+---
+
+### Fullstack Entwickler (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DEINE MISSION  Du hast tolle Ideen und willst diese umsetzen? Dann bist du bei uns genau richtig. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636788) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636788&ADP)
+
+---
+
+### Technischer Product Owner (w/m/d)  
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als „Visionär“ fühlst du dich stets dem Erfolg des Produkts verpflichtet und setzt dein Fokus auf die technischen Aspekte von „WAS“ - in einer engen Zusammenarbeit mit dem strategischen PO bei unserem Kunden. DAS IST DEIN UMFELD:  Zusammen mit den Experten aus der Entwicklung, UX-Engineering sowie Scrum Master bildest du ein stabiles Software-Entwicklungsteam. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/21026240) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=21026240&ADP)
+
+---
+
+### Initiativbewerbung
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Voll- oder Teilzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** WIR FREUEN UNS DICH KENNEN ZU LERNEN! Bei BRANDAD Systems entdeckst du die vielseitige Welt zwischen IT und Marketing. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636423) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636423&ADP)
+
+---
