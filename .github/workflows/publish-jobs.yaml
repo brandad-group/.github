@@ -1,12 +1,12 @@
 name: "Publish Softgarden Jobs on Website"
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
+  # push:
+  #  branches: [ "main" ]
+  # pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ "main" ]
-    types: [ "closed" ]
+  #  branches: [ "main" ]
+  #  types: [ "closed" ]
   schedule:
     - cron: '1 7 * * *'
 
@@ -14,6 +14,10 @@ jobs:
   generate-jobs:
     runs-on: ubuntu-latest
     environment: brandad.de
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -30,3 +34,5 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
           API_PATH: ${{ vars.API_PATH }}
           FTP_SERVER: ${{ vars.FTP_SERVER }}
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
