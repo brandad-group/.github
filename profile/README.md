@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2024-07-27, 07:04)
+## aktuelle Jobs (zuletzt aktualisiert: 2024-07-28, 07:03)
 
 ### Senior Scrum Master/Agile Coach (w/m/d)
 
