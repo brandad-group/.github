@@ -9,7 +9,7 @@ env_file_path = os.environ.get('GITHUB_ENV', None)
 if env_file_path is None:
     load_dotenv()
 
-p = Path(__file__).parent.resolve()
+p = Path(__file__).resolve().parent
 jf = job_fetcher.JobFetcher(
     p / "jobs.csv",
     os.environ.get("CLIENT_ID"),
