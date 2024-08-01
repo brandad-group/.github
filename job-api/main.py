@@ -10,6 +10,8 @@ if env_file_path is None:
     load_dotenv()
 
 p = Path(__file__).resolve().parent
+print(f'Working dir is: {p}')
+
 jf = job_fetcher.JobFetcher(
     p / "jobs.csv",
     os.environ.get("CLIENT_ID"),
