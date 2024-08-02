@@ -36,3 +36,6 @@ jobs:
           FTP_SERVER: ${{ vars.FTP_SERVER }}
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: '*.md job-api/jobs.csv jobs/jobs.md'
+          add_options: '--all'
