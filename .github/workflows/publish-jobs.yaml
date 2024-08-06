@@ -34,7 +34,6 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
           API_PATH: ${{ vars.API_PATH }}
           FTP_SERVER: ${{ vars.FTP_SERVER }}
-      # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           add_options: '--all'
