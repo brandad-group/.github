@@ -75,17 +75,6 @@
 
 ---
 
-### Projektmanager im MarTech-Umfeld  (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** Mit unserer Marketing-Plattform Brand Base helfen wir großen Marken und ihren Partnern am Point of Sale (POS) dabei, erfolgreiches lokales Marketing zu machen – maximal effektiv, automatisiert und über alle Kanäle hinweg. Viele großartige Menschen sind bereits an Bord der BRANDAD Solutions, um diese Mission gemeinsam zu bestreiten. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/45230017) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=45230017&ADP)
-
----
-
 ### UX/UI Designer (w/m/d)
 
 - **Wo?** Fürth, Deutschland
