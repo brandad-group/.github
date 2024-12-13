@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2024-12-12, 07:04)
+## aktuelle Jobs (zuletzt aktualisiert: 2024-12-13, 07:04)
 
 ### Fachinformatiker – Schwerpunkt Mediengestaltung (w/m/d)
 
