@@ -1,3 +1,14 @@
+### Mediengestalter mit Schwerpunkt Template-Entwicklung (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** Mit unserer Marketing-Plattform Brand Base unterstützen wir große Marken und ihre Partner am Point of Sale (POS) dabei, erfolgreiches lokales Marketing zu betreiben – maximal effektiv, automatisiert und über alle Kanäle hinweg. Viele großartige Menschen sind bereits an Bord der BRANDAD Solutions, um diese Mission gemeinsam zu bestreiten. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/53099954) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=53099954&ADP)
+
+---
+
 ### Fullstack Entwickler (w/m/d)
 
 - **Wo?** Fürth, Deutschland
