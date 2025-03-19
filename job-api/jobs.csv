@@ -1,4 +1,41 @@
 jobDbId;externalPostingName;internalPostingName;applyOnlineLink;jobCategories;audiences;employmentTypes;workTimes;industries;workExperiences;geo_lat;geo_long;geo_name;geo_country;geo_state;geo_city;geo_zip;geo_street;jobAdText;internalJobAdText;jobStartDate;jobEndDate;postingLastUpdatedDate;job_owner_salutation;job_owner_title;job_owner_firstname;job_owner_lastname;job_owner_street;job_owner_city;job_owner_zip;job_owner_phone;job_owner_email;job_owner_avatarurl;job_owner_function;job_ad_url;company_name;company_id;project_number;internal_reference_id;locale;keywords;layoutId;layoutName;remote_status;Stellentyp;Arbeitszeit
+21026240;Technischer Product Owner (w/m/d)  ;Technischer Product Owner (w/m/d)  ;https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=21026240&ADP;['sam42_it'];['3a3b1f6e7f000002010ad492e7837dd6'];['6'];['137caf67764c4b63b0272895af1704b0'];['58'];['1b4f51fe628c4119a2d7a581557d0944'];49.4771169;10.988667;Fürth, Deutschland;Deutschland;Bayern;Fürth;;;"<b>DAS IST DEINE ROLLE:</b>
+<p>Als „Visionär“ fühlst du dich stets dem Erfolg des Produkts verpflichtet und setzt dein Fokus auf die technischen Aspekte von „WAS“ - in einer engen Zusammenarbeit mit dem strategischen PO bei unserem Kunden.</p>
+
+<b>DAS IST DEIN UMFELD:</b>
+<ul>
+<li>Zusammen mit den Experten aus der Entwicklung, UX-Engineering sowie Scrum Master bildest du ein stabiles Software-Entwicklungsteam.</li>
+<li>Im agilen Anforderungsmanagement fühlst du dich wie der „Fisch im Wasser“ – sei es die Ermittlung der Anforderungen oder Erstellung der User Stories.</li>
+<li>Du übernimmst die Pflege, Priorisierung und Organisation des Backlogs.</li>
+<li>Ob Sprint Planning, Refinement Vorbereitung oder Release Planung – du setzt dir gern den Hut dafür auf.</li>
+<li>Gute Kommunikation mit den unterschiedlichen Stakeholdern ist für dich der Schlüssel zum Erfolg, hier unterstützt du das Team und den Kunden gleichermaßen.</li>
+<li>Sowohl bei uns als auch bei unseren Kunden sind agile Arbeitsweisen fest gesetzt und etabliert, Überzeugungsarbeit muss hier nicht geleistet werden.</li>
+</ul>
+
+<b>DAS SIND DEINE STÄRKEN:</b>
+<ul>
+<li>Idealerweise liegt dein beruflicher Background in der Softwareentwicklung oder dem technischem Projektmanagement.</li>
+<li>Du bringst eine hohe IT-Affinität mit, so dass für die Begrifflichkeiten rund um das Produkt &amp; den Techstack kein Nachschlagewerk notwendig ist.</li>
+<li>Du beherrschst agile Entwicklungsmethoden mit Souveränität und Leichtigkeit.</li>
+<li>Du überzeugst mit deinen starken analytischen Fähigkeiten und einer strukturierten Arbeitsweise.</li>
+<li>Deine Art zu kommunizieren ist klar, offen und wertschätzend.</li>
+<li>Du kannst „Nein“ sagen, ohne den Menschen auf die Füße zu treten.</li>
+<li>Deine positive Art und Professionalität begeistern nicht nur dein Team, sondern auch Kunden und Stakeholder.</li>
+<li>Ein i-Tüpfelchen wäre noch eine Product Owner Zertifizierung oder zumindest der starke Wunsch eine nachzuholen! #ForeverLearning</li>
+</ul>
+
+<b>DAS KANNST DU ERWARTEN:</b>
+<ul>
+<li>Generell kann man sagen: mehr als du erwartest :-)!</li>
+<li>Auf dich warten große Spielräume, um deine tollen Ideen auch wirklich umzusetzen.&nbsp;</li>
+<li>Unkonventionelle Wege betrachten wir nicht als Problem, sondern als Bereicherung.&nbsp;</li>
+<li>Wir verkörpern eine lebendige Lernkultur, in der wir Fehler als das betrachten, was sie sind: Schritte auf dem Weg zur Verbesserung!&nbsp;</li>
+<li>Klassische Machthierarchie? Nein danke!&nbsp;</li>
+<li>Die verkehrsgünstige Lage direkt am Fürther Hauptbahnhof lässt dir alle Optionen für den bequemen Weg zur Arbeit offen.</li>
+<li>Deine rund 90 neuen Kolleginnen und Kollegen arbeiten nicht nur in unterschiedlichsten Disziplinen, sondern sind auch sonst ein ziemlich „bunter Haufen“.</li>
+</ul>
+
+";;1742302969267;0;1742302969267;;;Natalia;Streck;;;;;Natalia.streck@brandad-systems.de;https://app.softgarden.io/assets/public/media/get/05ed1f57-ba8a-452d-932e-2a0af8f7c327/1639486366579/1604964991702.jpg;People Enthusiast & Talent Ambassador;https://short.sg/j/21026240;BRANDAD Group AG;bf4c49f6-8454-48f8-8311-8f8bf9d01ecd;1056886;/images/softgarden/2023-12/brandad-stellenausschreibung_12.jpg;de;Product Owner, agile Entwicklungsmethoden, Projektmanagement, agiles Projektmanagement, agile Teams, crossfunktionale Teams, Produktverantwortung, Backlog, Requirement Engineering, BRANDAD Development;8971251ad5df45fa9be0ae113a9d532a;Job Ad Layout;REMOTE_FLEXIBLE;Festanstellung;Vollzeitstelle
 14636793;Senior Scrum Master/Agile Coach (w/m/d);Agile Coach (w/m/d);https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636793&ADP;['sam42_it'];['3a3b1f6e7f000002010ad492e7837dd6'];['6'];['87af1987840d4442b87f2e0ee3344a1f'];['22'];['1b4f51fe628c4119a2d7a581557d0944'];49.4771169;10.988667;Fürth, Deutschland;Deutschland;Bayern;Fürth;;;"<b>DAS IST DEINE ROLLE:</b>
 <p>Den Job als Scrum Master/Agile Coach müssen wir dir nicht erklären, deine Rolle kennst du selbst am besten.</p>
 
@@ -285,43 +322,6 @@ jobDbId;externalPostingName;internalPostingName;applyOnlineLink;jobCategories;au
 <p>Na, dir kribbeln die Finger?! Uns auch! 90 BAStis freuen sich schon auf deine Bewerbung!</p>
 
 ";;1734693758016;0;1734693758016;;;Natalia;Streck;;;;;Natalia.streck@brandad-systems.de;https://app.softgarden.io/assets/public/media/get/05ed1f57-ba8a-452d-932e-2a0af8f7c327/1639486366579/1604964991702.jpg;People Enthusiast & Talent Ambassador;https://short.sg/j/14637273;BRANDAD Group AG;bf4c49f6-8454-48f8-8311-8f8bf9d01ecd;922278;/images/softgarden/Software_Entwickler_angular_1224_816px.jpg;de;IT, Software, Softwareentwicklung, Entwicklung, Anwendungsentwicklung, Frontend, Web-Technologie, Angular, BRANDAD Development;8971251ad5df45fa9be0ae113a9d532a;Job Ad Layout;REMOTE_FLEXIBLE;Festanstellung;Vollzeitstelle
-21026240;Technischer Product Owner (w/m/d)  ;Technischer Product Owner (w/m/d)  ;https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=21026240&ADP;['sam42_it'];['3a3b1f6e7f000002010ad492e7837dd6'];['6'];['137caf67764c4b63b0272895af1704b0'];['58'];['1b4f51fe628c4119a2d7a581557d0944'];49.4771169;10.988667;Fürth, Deutschland;Deutschland;Bayern;Fürth;;;"<b>DAS IST DEINE ROLLE:</b>
-<p>Als „Visionär“ fühlst du dich stets dem Erfolg des Produkts verpflichtet und setzt dein Fokus auf die technischen Aspekte von „WAS“ - in einer engen Zusammenarbeit mit dem strategischen PO bei unserem Kunden.</p>
-
-<b>DAS IST DEIN UMFELD:</b>
-<ul>
-<li>Zusammen mit den Experten aus der Entwicklung, UX-Engineering sowie Scrum Master bildest du ein stabiles Software-Entwicklungsteam.</li>
-<li>Im agilen Anforderungsmanagement fühlst du dich wie der „Fisch im Wasser“ – sei es die Ermittlung der Anforderungen oder Erstellung der User Stories.</li>
-<li>Du übernimmst die Pflege, Priorisierung und Organisation des Backlogs.</li>
-<li>Ob Sprint Planning, Refinement Vorbereitung oder Release Planung – du setzt dir gern den Hut dafür auf.</li>
-<li>Gute Kommunikation mit den unterschiedlichen Stakeholdern ist für dich der Schlüssel zum Erfolg, hier unterstützt du das Team und den Kunden gleichermaßen.</li>
-<li>Sowohl bei uns als auch bei unseren Kunden sind agile Arbeitsweisen fest gesetzt und etabliert, Überzeugungsarbeit muss hier nicht geleistet werden.</li>
-</ul>
-
-<b>DAS SIND DEINE STÄRKEN:</b>
-<ul>
-<li>Idealerweise liegt dein beruflicher Background in der Softwareentwicklung oder dem technischem Projektmanagement.</li>
-<li>Du bringst eine hohe IT-Affinität mit, so dass für die Begrifflichkeiten rund um das Produkt &amp; den Techstack kein Nachschlagewerk notwendig ist.</li>
-<li>Du beherrschst agile Entwicklungsmethoden mit Souveränität und Leichtigkeit.</li>
-<li>Du überzeugst mit deinen starken analytischen Fähigkeiten und einer strukturierten Arbeitsweise.</li>
-<li>Deine Art zu kommunizieren ist klar, offen und wertschätzend.</li>
-<li>Du kannst „Nein“ sagen, ohne den Menschen auf die Füße zu treten.</li>
-<li>Deine positive Art und Professionalität begeistern nicht nur dein Team, sondern auch Kunden und Stakeholder.</li>
-<li>Ein i-Tüpfelchen wäre noch eine Product Owner Zertifizierung oder zumindest der starke Wunsch eine nachzuholen! #ForeverLearning</li>
-</ul>
-
-<b>DAS KANNST DU ERWARTEN:</b>
-<ul>
-<li>Generell kann man sagen: mehr als du erwartest :-)!</li>
-<li>Auf dich warten große Spielräume, um deine tollen Ideen auch wirklich umzusetzen.&nbsp;</li>
-<li>Unkonventionelle Wege betrachten wir nicht als Problem, sondern als Bereicherung.&nbsp;</li>
-<li>Wir verkörpern eine lebendige Lernkultur, in der wir Fehler als das betrachten, was sie sind: Schritte auf dem Weg zur Verbesserung!&nbsp;</li>
-<li>Klassische Machthierarchie? Nein danke!&nbsp;</li>
-<li>Die verkehrsgünstige Lage direkt am Fürther Hauptbahnhof lässt dir alle Optionen für den bequemen Weg zur Arbeit offen.</li>
-<li>Deine rund 90 neuen Kolleginnen und Kollegen arbeiten nicht nur in unterschiedlichsten Disziplinen, sondern sind auch sonst ein ziemlich „bunter Haufen“.</li>
-</ul>
-
-";;1723148212638;0;1723148212638;;;Natalia;Streck;;;;;Natalia.streck@brandad-systems.de;https://app.softgarden.io/assets/public/media/get/05ed1f57-ba8a-452d-932e-2a0af8f7c327/1639486366579/1604964991702.jpg;People Enthusiast & Talent Ambassador;https://short.sg/j/21026240;BRANDAD Group AG;bf4c49f6-8454-48f8-8311-8f8bf9d01ecd;1056886;/images/softgarden/2023-12/brandad-stellenausschreibung_12.jpg;de;Product Owner, agile Entwicklungsmethoden, Projektmanagement, agiles Projektmanagement, agile Teams, crossfunktionale Teams, Produktverantwortung, Backlog, Requirement Engineering, BRANDAD Development;8971251ad5df45fa9be0ae113a9d532a;Job Ad Layout;REMOTE_FLEXIBLE;Festanstellung;Vollzeitstelle
 14636423;Initiativbewerbung;Initiativbewerbung;https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636423&ADP;['sam42_it'];['3a3b1f6e7f000002010ad492e7837dd6'];['6'];['87af1987840d4442b87f2e0ee3344a1f'];['22'];['1b4f51fe628c4119a2d7a581557d0944'];49.4771169;10.988667;Fürth, Deutschland;Deutschland;Bayern;Fürth;;;"<b>WIR FREUEN UNS DICH KENNEN ZU LERNEN!</b>
 <div class=""uk-panel uk-margin uk-scrollspy-inview "">
 <div class=""uk-panel uk-margin uk-scrollspy-inview "">

@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2025-03-18, 07:04)
+## aktuelle Jobs (zuletzt aktualisiert: 2025-03-19, 07:03)
+
+### Technischer Product Owner (w/m/d)  
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als „Visionär“ fühlst du dich stets dem Erfolg des Produkts verpflichtet und setzt dein Fokus auf die technischen Aspekte von „WAS“ - in einer engen Zusammenarbeit mit dem strategischen PO bei unserem Kunden. DAS IST DEIN UMFELD:  Zusammen mit den Experten aus der Entwicklung, UX-Engineering sowie Scrum Master bildest du ein stabiles Software-Entwicklungsteam. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/21026240) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=21026240&ADP)
+
+---
 
 ### Senior Scrum Master/Agile Coach (w/m/d)
 
@@ -71,17 +82,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DAS WARTET AUF DICH: Du entwickelst smarte Softwareprodukte mit End-to-End Verantwortung, überblickst den gesamten Entwicklungsprozess und arbeitest u.a. mit Pair-Programming, Code Reviews und Testautomatisierung an Lösungen auf höchstem Qualitäts-Niveau. Tech-Stack (priorisiert): Angular, TypeScript, Java Spring Boot, HTML/JS, JPA, SQL, Microservices, Git, Gradle, Jenkins, CI/CD, Docker, REST, SOAP  TRIFFT DAS AUF DICH ZU? ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637273) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637273&ADP)
-
----
-
-### Technischer Product Owner (w/m/d)  
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als „Visionär“ fühlst du dich stets dem Erfolg des Produkts verpflichtet und setzt dein Fokus auf die technischen Aspekte von „WAS“ - in einer engen Zusammenarbeit mit dem strategischen PO bei unserem Kunden. DAS IST DEIN UMFELD:  Zusammen mit den Experten aus der Entwicklung, UX-Engineering sowie Scrum Master bildest du ein stabiles Software-Entwicklungsteam. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/21026240) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=21026240&ADP)
 
 ---
 
