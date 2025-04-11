@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2025-04-10, 07:04)
+## aktuelle Jobs (zuletzt aktualisiert: 2025-04-11, 07:04)
+
+### Chief Technology Officer (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS SIND WIR:  Bei BRANDAD leben wir seit 1999 unsere Leidenschaft für innovatives Marketing. Als einer der führenden Softwarespezialisten für Marketing-Portale in Europa entwickeln wir eigene, leistungsstarke Cloud-Systeme, die Marken richtig stark machen. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/55316842) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=55316842&ADP)
+
+---
 
 ### Senior Customer Success Manager (w/m/d)
 
