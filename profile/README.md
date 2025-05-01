@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2025-04-30, 07:04)
+## aktuelle Jobs (zuletzt aktualisiert: 2025-05-01, 07:04)
 
 ### Chief Technology Officer (w/m/d)
 
