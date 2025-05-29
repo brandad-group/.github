@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2025-05-28, 07:04)
+## aktuelle Jobs (zuletzt aktualisiert: 2025-05-29, 07:04)
+
+### Mediengestalter mit Schwerpunkt Template-Entwicklung (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** Mit unserer Marketing-Plattform Brand Base unterstützen wir große Marken und ihre Partner am Point of Sale (POS) dabei, erfolgreiches lokales Marketing zu betreiben – maximal effektiv, automatisiert und über alle Kanäle hinweg. Viele großartige Menschen sind bereits an Bord der BRANDAD Solutions, um diese Mission gemeinsam zu bestreiten. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/53099954) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=53099954&ADP)
+
+---
 
 ### Chief Technology Officer (w/m/d)
 
@@ -60,17 +71,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Den Job als Scrum Master/Agile Coach müssen wir dir nicht erklären, deine Rolle kennst du selbst am besten. DAS IST DEIN UMFELD:  Du begleitest genau ein Software-Entwicklungsteam auf seinem Weg, so dass du den Fokus auf das Team halten kannst und auch genug Zeit hast, innerhalb des Unternehmens Dein Umfeld mitzugestalten. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636793) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636793&ADP)
-
----
-
-### Mediengestalter mit Schwerpunkt Template-Entwicklung (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** Mit unserer Marketing-Plattform Brand Base unterstützen wir große Marken und ihre Partner am Point of Sale (POS) dabei, erfolgreiches lokales Marketing zu betreiben – maximal effektiv, automatisiert und über alle Kanäle hinweg. Viele großartige Menschen sind bereits an Bord der BRANDAD Solutions, um diese Mission gemeinsam zu bestreiten. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/53099954) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=53099954&ADP)
 
 ---
 
