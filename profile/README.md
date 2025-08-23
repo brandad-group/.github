@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2025-08-22, 07:04)
+## aktuelle Jobs (zuletzt aktualisiert: 2025-08-23, 07:03)
 
 ### Mediengestalter mit Schwerpunkt Template-Entwicklung (w/m/d)
 
