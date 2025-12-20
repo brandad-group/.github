@@ -17,16 +17,38 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2025-12-19, 07:05)
+## aktuelle Jobs (zuletzt aktualisiert: 2025-12-20, 07:04)
 
-### Mediengestalter mit Schwerpunkt Template-Entwicklung (w/m/d)
+### Software­entwickler (w/m/d) - Schwerpunkt: Angular
 
 - **Wo?** Fürth, Deutschland
 - **Wer?** mit Berufserfahrung
 - **Wie?** Festanstellung in Vollzeit
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** Mit unserer Marketing-Plattform Brand Base unterstützen wir große Marken und ihre Partner am Point of Sale (POS) dabei, erfolgreiches lokales Marketing zu betreiben – maximal effektiv, automatisiert und über alle Kanäle hinweg. Viele großartige Menschen sind bereits an Bord der BRANDAD Solutions, um diese Mission gemeinsam zu bestreiten. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/53099954) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=53099954&ADP)
+- **Was? (automatisch gekürzt)** DAS WARTET AUF DICH: Du entwickelst smarte Softwareprodukte mit End-to-End Verantwortung, überblickst den gesamten Entwicklungsprozess und arbeitest u.a. mit Pair-Programming, Code Reviews und Testautomatisierung an Lösungen auf höchstem Qualitäts-Niveau. Tech-Stack (priorisiert): Angular, TypeScript, Java Spring Boot, HTML/JS, JPA, SQL, Microservices, Git, Gradle, Jenkins, CI/CD, Docker, REST, SOAP  TRIFFT DAS AUF DICH ZU? ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637273) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637273&ADP)
+
+---
+
+### Fullstack Entwickler (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DEINE MISSION  Du hast tolle Ideen und willst diese umsetzen? Dann bist du bei uns genau richtig. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636788) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636788&ADP)
+
+---
+
+### Softwareentwickler (w/m/d) - Frontend
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DIESE AUFGABEN WARTEN AUF DICH: Wir erklären dir als Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst – nichthier und auch nicht, wenn du bei uns anfängst. Deine Eigenverantwortung sowie die Verantwortungdeinen Kolleginnen und Kollegen gegenüber sind uns immens wichtig. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637498) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP)
 
 ---
 
@@ -52,28 +74,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-### Fullstack Entwickler (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DEINE MISSION  Du hast tolle Ideen und willst diese umsetzen? Dann bist du bei uns genau richtig. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636788) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636788&ADP)
-
----
-
-### Software­entwickler (w/m/d) - Schwerpunkt: Angular
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS WARTET AUF DICH: Du entwickelst smarte Softwareprodukte mit End-to-End Verantwortung, überblickst den gesamten Entwicklungsprozess und arbeitest u.a. mit Pair-Programming, Code Reviews und Testautomatisierung an Lösungen auf höchstem Qualitäts-Niveau. Tech-Stack (priorisiert): Angular, TypeScript, Java Spring Boot, HTML/JS, JPA, SQL, Microservices, Git, Gradle, Jenkins, CI/CD, Docker, REST, SOAP  TRIFFT DAS AUF DICH ZU? ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637273) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637273&ADP)
-
----
-
 ### Initiativbewerbung
 
 - **Wo?** Fürth, Deutschland
@@ -93,27 +93,5 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DIESE AUFGABENFELDER WARTEN AUF DICH:  Du entwickelst neue Produktfeatures und treibst die Verbesserung der Architektur unserer Microservices voran. Im Vorfeld der Sprints analysierst und beurteilst du User Stories. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14638203) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14638203&ADP)
-
----
-
-### Softwareentwickler (w/m/d) - Frontend
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DIESE AUFGABEN WARTEN AUF DICH: Wir erklären dir als Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst – nichthier und auch nicht, wenn du bei uns anfängst. Deine Eigenverantwortung sowie die Verantwortungdeinen Kolleginnen und Kollegen gegenüber sind uns immens wichtig. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637498) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP)
-
----
-
-### UX/UI Designer (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** AUF DIESE AUFGABENFELDER KANNST DU DICH FREUEN:  In einem crossfunktionalen Entwicklerteam verantwortest du alle Facetten der User Experience. Du übernimmst die Konzeption von ersten Entwürfen bis hin zum finalen UI-Design, dabei steht der Human Centered Design Prozess für dich an erster Stelle. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637288) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637288&ADP)
 
 ---
