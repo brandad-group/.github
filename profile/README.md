@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-01-12, 07:09)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-01-13, 07:07)
 
 ### Software­entwickler (w/m/d) - Schwerpunkt: Angular
 
