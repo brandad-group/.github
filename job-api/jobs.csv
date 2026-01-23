@@ -1,4 +1,117 @@
 jobDbId;externalPostingName;internalPostingName;applyOnlineLink;jobCategories;audiences;employmentTypes;workTimes;industries;workExperiences;geo_lat;geo_long;geo_name;geo_country;geo_state;geo_city;geo_zip;geo_street;jobAdText;internalJobAdText;jobStartDate;jobEndDate;postingLastUpdatedDate;job_owner_salutation;job_owner_title;job_owner_firstname;job_owner_lastname;job_owner_street;job_owner_city;job_owner_zip;job_owner_phone;job_owner_email;job_owner_avatarurl;job_owner_function;job_ad_url;company_name;company_id;project_number;internal_reference_id;locale;keywords;layoutId;layoutName;remote_status;Stellentyp;Arbeitszeit
+14637498;Softwareentwickler (w/m/d) - Frontend;Softwareentwickler (w/m/d) - Frontend;https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP;['sam42_it'];['3a3b1f6e7f000002010ad492e7837dd6'];['6'];['137caf67764c4b63b0272895af1704b0'];['22'];['1b4f51fe628c4119a2d7a581557d0944'];49.4771169;10.988667;Fürth, Deutschland;Deutschland;Bayern;Fürth;;;"<b>DAFÜR BRAUCHEN WIR DICH:</b>
+<div class=""OutlineElement Ltr SCXW235952239 BCX0"">
+<p class=""Paragraph SCXW235952239 BCX0""><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Wir erklären dir als&nbsp;</span></span><span class=""TextRun SCXW235952239 BCX0""><strong><span class=""NormalTextRun SCXW235952239 BCX0"">Frontend-Entwickler</span></strong><span class=""NormalTextRun SCXW235952239 BCX0""><strong>in</strong> bzw. <strong>Frontend-Entwickler</strong></span></span><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">ganz sicher nicht, wie du deinen Job machen solls</span><span class=""NormalTextRun SCXW235952239 BCX0"">t. W</span><span class=""NormalTextRun SCXW235952239 BCX0"">eder hier noch später</span><span class=""NormalTextRun SCXW235952239 BCX0"">, wenn du bei uns startest.</span></span> <span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Was uns wichtig ist:&nbsp;</span></span><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Eigenverantwortung</span></span><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">,&nbsp;</span></span><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Qualität</span></span><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">&nbsp;und echtes&nbsp;</span></span><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Teamplay</span></span><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">. Du füllst diese Rolle mit Leben, entwickelst sie&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">-&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">und&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">damit auch&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">das ganze Unternehmen&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">- weiter</span><span class=""NormalTextRun SCXW235952239 BCX0"">.</span></span><span class=""EOP SCXW235952239 BCX0"">&nbsp;</span></p>
+</div>
+<div class=""OutlineElement Ltr SCXW235952239 BCX0"">
+<p class=""Paragraph SCXW235952239 BCX0""><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">D</span><span class=""NormalTextRun SCXW235952239 BCX0"">ein <strong>fachlicher Schwerpunkt</strong> <strong>liegt im&nbsp;</strong></span></span><span class=""TextRun SCXW235952239 BCX0""><strong><span class=""NormalTextRun SCXW235952239 BCX0"">Frontend</span></strong><span class=""NormalTextRun SCXW235952239 BCX0"">,&nbsp;</span><span class=""NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW235952239 BCX0"">das</span><span class=""NormalTextRun SCXW235952239 BCX0""> du zusammen mit deinen UX-Design-Mates</span><span class=""NormalTextRun SCXW235952239 BCX0"">&nbsp;auf das nächste Level hebst.</span><span class=""NormalTextRun SCXW235952239 BCX0"">&nbsp;</span></span><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Gleichzeitig&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">denkst du Software ganzheitlich und bringst eine Affinität zu&nbsp;</span><span class=""NormalTextRun SpellingErrorV2Themed SCXW235952239 BCX0"">Fullstack</span><span class=""NormalTextRun SCXW235952239 BCX0"">-Themen&nbsp;</span><span class=""NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW235952239 BCX0"">mit.&nbsp;</span></span></p>
+</div>
+<div class=""OutlineElement Ltr SCXW235952239 BCX0"">
+<p class=""Paragraph SCXW235952239 BCX0""><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Du entwickelst smarte Softwareprodukte mit End-</span><span class=""NormalTextRun SpellingErrorV2Themed SCXW235952239 BCX0"">to</span><span class=""NormalTextRun SCXW235952239 BCX0"">-End</span><span class=""NormalTextRun SCXW235952239 BCX0"">-</span><span class=""NormalTextRun SCXW235952239 BCX0"">Verantwortung,&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">behältst den gesamten Entwicklungsprozess im Blick&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">und arbeitest mit Pair-</span><span class=""NormalTextRun SpellingErrorV2Themed SCXW235952239 BCX0"">Programming</span><span class=""NormalTextRun SCXW235952239 BCX0"">, Code Reviews und Testautomatisierung an&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">qualitativ hochwertigen Lösungen.</span></span><span class=""EOP SCXW235952239 BCX0"">&nbsp;</span></p>
+</div>
+<div class=""OutlineElement Ltr SCXW235952239 BCX0"">
+<p class=""Paragraph SCXW235952239 BCX0""><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Moderne Entwicklungswerkzeuge</span><span class=""NormalTextRun SCXW235952239 BCX0"">,&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">inklusive KI-gestützter Tools</span><span class=""NormalTextRun SCXW235952239 BCX0"">,&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">setzt du dort ein, wo sie dich sinnvoll unterstützen, ohne Qualität, Sicherheit oder Wartbarkeit aus den Augen zu verlieren.</span></span><span class=""LineBreakBlob BlobObject DragDrop SCXW235952239 BCX0""><span class=""SCXW235952239 BCX0"">&nbsp;</span><br class=""SCXW235952239 BCX0""></span><span class=""LineBreakBlob BlobObject DragDrop SCXW235952239 BCX0""><span class=""SCXW235952239 BCX0"">&nbsp;</span><br class=""SCXW235952239 BCX0""></span><strong><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Tech-Stack</span></span></strong><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0""><strong>&nbsp;</strong>(</span><span class=""NormalTextRun SpellingErrorV2Themed SCXW235952239 BCX0"">Auszug</span><span class=""NormalTextRun SCXW235952239 BCX0"">): Angular, TypeScript, Java Spring Boot, HTML/JS, JPA, SQL, Microservices, Git, Gradle, Jenkins, CI/CD, Docker, REST,</span></span><span class=""TrackedChange SCXW235952239 BCX0""><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">&nbsp;</span></span></span><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Python, AI-assisted&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">Coding</span></span><span class=""EOP SCXW235952239 BCX0"">&nbsp;</span></p>
+</div>
+<div class=""OutlineElement Ltr SCXW235952239 BCX0"">
+<p class=""Paragraph SCXW235952239 BCX0""><span class=""TextRun SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">Wie der Alltag einer Frontend-Entwicklerin bzw. eines Frontend-Entwicklers bei BRANDAD aussieht, findest&nbsp;</span><span class=""NormalTextRun AdvancedProofingIssueV2Themed SCXW235952239 BCX0"">du&nbsp;</span><span class=""NormalTextRun AdvancedProofingIssueV2Themed SCXW235952239 BCX0"">übrigens</span><span class=""NormalTextRun SCXW235952239 BCX0"">&nbsp;</span><span class=""NormalTextRun SCXW235952239 BCX0"">hier: </span></span><a class=""Hyperlink SCXW235952239 BCX0"" href=""https://www.youtube.com/watch?v=88XjwlRGvqo"" target=""_blank"" rel=""nofollow""><span class=""TextRun Underlined SCXW235952239 BCX0""><span class=""NormalTextRun SCXW235952239 BCX0"">https://www.youtube.com/watch?v=88XjwlRGvqo</span></span></a><span class=""EOP SCXW235952239 BCX0"">&nbsp;</span></p>
+</div>
+
+<b>DAS TRIFFT AUF DICH ZU:</b>
+<div class=""ListContainerWrapper SCXW132872574 BCX0"">
+<ul class=""BulletListStyle1 SCXW132872574 BCX0"">
+<li class=""OutlineElement Ltr SCXW132872574 BCX0"">
+<p class=""Paragraph SCXW132872574 BCX0""><span class=""TextRun SCXW132872574 BCX0""><span class=""NormalTextRun SCXW132872574 BCX0"">Du bist Vollblutssoftwareentwicklerin bzw. -entwickler und blickst auf ein abgeschlossenes Informatikstudium oder eine vergleichbare Qualifikation sowie mehrere Jahre Berufserfahrung zurück.</span></span><span class=""EOP SCXW132872574 BCX0"">&nbsp;</span></p>
+</li>
+</ul>
+</div>
+<div class=""ListContainerWrapper SCXW132872574 BCX0"">
+<ul class=""BulletListStyle1 SCXW132872574 BCX0"">
+<li class=""OutlineElement Ltr SCXW132872574 BCX0"">
+<p class=""Paragraph SCXW132872574 BCX0""><span class=""TextRun SCXW132872574 BCX0""><span class=""NormalTextRun SCXW132872574 BCX0"">HTML, CSS und JavaScript zählen zu deinen Stärken.</span></span><span class=""EOP SCXW132872574 BCX0"">&nbsp;</span></p>
+</li>
+</ul>
+</div>
+<div class=""ListContainerWrapper SCXW132872574 BCX0"">
+<ul class=""BulletListStyle1 SCXW132872574 BCX0"">
+<li class=""OutlineElement Ltr SCXW132872574 BCX0"">
+<p class=""Paragraph SCXW132872574 BCX0""><span class=""TextRun SCXW132872574 BCX0""><span class=""NormalTextRun SCXW132872574 BCX0"">Du kannst tiefgreifende Projekterfahrung mit Angular und&nbsp;</span><span class=""NormalTextRun SpellingErrorV2Themed SCXW132872574 BCX0"">TypeScript</span><span class=""NormalTextRun SCXW132872574 BCX0"">&nbsp;vorweisen.</span></span><span class=""EOP SCXW132872574 BCX0"">&nbsp;</span></p>
+</li>
+</ul>
+</div>
+<div class=""ListContainerWrapper SCXW132872574 BCX0"">
+<ul class=""BulletListStyle1 SCXW132872574 BCX0"">
+<li class=""OutlineElement Ltr SCXW132872574 BCX0"">
+<p class=""Paragraph SCXW132872574 BCX0""><span class=""TextRun SCXW132872574 BCX0""><span class=""NormalTextRun SCXW132872574 BCX0"">Du strebst jederzeit ein intuitives und benutzerfreundliches UI-Design an.</span></span><span class=""EOP TrackedChange SCXW132872574 BCX0"">&nbsp;</span></p>
+</li>
+<li class=""OutlineElement Ltr SCXW132872574 BCX0""><span class=""EOP TrackedChange SCXW132872574 BCX0""><span class=""TextRun SCXW133452207 BCX0""><span class=""NormalTextRun SCXW133452207 BCX0"">Du stellst hohe Ansprüche an die Qualität</span><span class=""NormalTextRun SCXW133452207 BCX0"">, Wartbarkeit</span><span class=""NormalTextRun SCXW133452207 BCX0"">&nbsp;und Robustheit deines Quellcodes und berücksichtigst deshalb bei der Entwicklung stets die Prinzipien von Clean Code.</span></span><span class=""EOP SCXW133452207 BCX0"">&nbsp;<br><br></span></span></li>
+<li><span class=""EOP TrackedChange SCXW132872574 BCX0""><span class=""EOP SCXW133452207 BCX0""><span class=""TextRun SCXW79848809 BCX0""><span class=""NormalTextRun SCXW79848809 BCX0""><span class=""TextRun SCXW47319277 BCX0""><span class=""NormalTextRun CommentHighlightRest SCXW47319277 BCX0"">Der reflektierte Einsatz von&nbsp;</span></span><span class=""TextRun SCXW47319277 BCX0""><span class=""NormalTextRun CommentHighlightRest SCXW47319277 BCX0"">KI-gestützten Entwicklungs- und Analysewerkzeugen</span></span><span class=""TextRun SCXW47319277 BCX0""><span class=""NormalTextRun CommentHighlightRest SCXW47319277 BCX0"">&nbsp;ist für dich Teil moderner, professioneller Softwareentwicklung.</span></span><span class=""EOP CommentHighlightPipeRest SCXW47319277 BCX0"">&nbsp;<br><br></span></span></span></span></span></li>
+<li class=""OutlineElement Ltr SCXW132872574 BCX0""><span class=""EOP TrackedChange SCXW132872574 BCX0""><span class=""EOP SCXW133452207 BCX0""><span class=""TextRun SCXW79848809 BCX0""><span class=""NormalTextRun SCXW79848809 BCX0"">Du arbeitest gerne eigenverantwortlich, kommunizierst klar und wertschätzend und teilst dein Wissen im Team</span></span></span></span></li>
+</ul>
+</div>
+
+<b>DARAUF KANNST DU DICH FREUEN:</b>
+<div class=""SCXW17737433 BCX0"">
+<div class=""ListContainerWrapper SCXW17737433 BCX0"">
+<ul class=""BulletListStyle1 SCXW17737433 BCX0"">
+<li class=""OutlineElement Ltr SCXW17737433 BCX0"">
+<p class=""Paragraph SCXW17737433 BCX0""><span class=""TextRun SCXW17737433 BCX0""><span class=""NormalTextRun SCXW17737433 BCX0"">Den&nbsp;</span><span class=""NormalTextRun SCXW17737433 BCX0"">Spielr</span><span class=""NormalTextRun SCXW17737433 BCX0"">aum, Nährboden und Rückhalt, um </span><span class=""NormalTextRun AdvancedProofingIssueV2Themed SCXW17737433 BCX0"">tolle</span><span class=""NormalTextRun SCXW17737433 BCX0""> Ideen zu entwickeln und umzusetzen </span></span><span class=""EOP SCXW17737433 BCX0"">&nbsp;</span></p>
+</li>
+</ul>
+</div>
+<div class=""ListContainerWrapper SCXW17737433 BCX0"">
+<ul class=""BulletListStyle1 SCXW17737433 BCX0"">
+<li class=""OutlineElement Ltr SCXW17737433 BCX0"">
+<p class=""Paragraph SCXW17737433 BCX0""><span class=""TextRun SCXW17737433 BCX0""><span class=""NormalTextRun SCXW17737433 BCX0"">Lösungsorientierte Kolleginnen und Kollegen, die in unkonventionellen Wegen kein Problem, sondern eine Bereicherung sehen </span></span><span class=""EOP SCXW17737433 BCX0"">&nbsp;</span></p>
+</li>
+</ul>
+</div>
+<div class=""ListContainerWrapper SCXW17737433 BCX0"">
+<ul class=""BulletListStyle1 SCXW17737433 BCX0"">
+<li class=""OutlineElement Ltr SCXW17737433 BCX0"">
+<p class=""Paragraph SCXW17737433 BCX0""><span class=""TextRun SCXW17737433 BCX0""><span class=""NormalTextRun SCXW17737433 BCX0"">Lebendige Lernkultur, in der Fehler als Chancen zur Verbesserung einfach dazugehören </span></span><span class=""EOP SCXW17737433 BCX0"">&nbsp;</span></p>
+</li>
+</ul>
+</div>
+<div class=""ListContainerWrapper SCXW17737433 BCX0"">
+<ul class=""BulletListStyle1 SCXW17737433 BCX0"">
+<li class=""OutlineElement Ltr SCXW17737433 BCX0"">
+<p class=""Paragraph SCXW17737433 BCX0""><span class=""TextRun SCXW17737433 BCX0""><span class=""NormalTextRun SCXW17737433 BCX0"">Bewusste Abkehr von der klassischen Machthierarchie </span></span><span class=""EOP SCXW17737433 BCX0"">&nbsp;</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class=""SCXW17737433 BCX0"">
+<div class=""ListContainerWrapper SCXW17737433 BCX0"">
+<ul class=""BulletListStyle1 SCXW17737433 BCX0"">
+<li class=""OutlineElement Ltr SCXW17737433 BCX0"">
+<p class=""Paragraph SCXW17737433 BCX0""><span class=""TextRun SCXW17737433 BCX0""><span class=""NormalTextRun SCXW17737433 BCX0"">Ein schönes Büro in zentraler, verkehrsgünstiger Lage … und die Möglichkeit, es nur dann aufzusuchen, wenn du das mobile Arbeiten satthast </span></span><span class=""EOP SCXW17737433 BCX0"">&nbsp;</span></p>
+</li>
+</ul>
+</div>
+<div class=""ListContainerWrapper SCXW17737433 BCX0"">
+<ul class=""BulletListStyle1 SCXW17737433 BCX0"">
+<li class=""OutlineElement Ltr SCXW17737433 BCX0"">
+<p class=""Paragraph SCXW17737433 BCX0""><span class=""TextRun SCXW17737433 BCX0""><span class=""NormalTextRun SCXW17737433 BCX0"">Viele und vielfältige Kolleginnen und Kollegen in der BRANDAD-Unternehmensgruppe – ein bunter Haufen aus mehr als 100 interessanten Menschen </span></span><span class=""EOP SCXW17737433 BCX0"">&nbsp;</span></p>
+</li>
+</ul>
+</div>
+</div>
+
+<b>WIR SIND BRANDAD:</b>
+<div class=""OutlineElement Ltr SCXW141580807 BCX0"">
+<p class=""Paragraph SCXW141580807 BCX0""><span class=""TextRun SCXW141580807 BCX0""><span class=""NormalTextRun SCXW141580807 BCX0"">Bei </span></span><span class=""TextRun SCXW141580807 BCX0""><span class=""NormalTextRun SCXW141580807 BCX0""><strong>BRANDAD Development</strong> </span></span><span class=""TextRun SCXW141580807 BCX0""><span class=""NormalTextRun SCXW141580807 BCX0"">stellen wir unseren Kunden </span><span class=""NormalTextRun SpellingErrorV2Themed SCXW141580807 BCX0"">crossfunktionale</span><span class=""NormalTextRun SCXW141580807 BCX0""> Softwareentwicklungs-Teams an die Seite, die nicht nur Software für sie und mit ihnen entwickeln, sondern auch die geballte Power an Erfahrung und Know-how rund um agile Methoden mit ihnen teilen. </span></span><span class=""EOP SCXW141580807 BCX0"">&nbsp;</span></p>
+</div>
+<div class=""OutlineElement Ltr SCXW141580807 BCX0"">
+<p class=""Paragraph SCXW141580807 BCX0""><span class=""TextRun SCXW141580807 BCX0""><span class=""NormalTextRun SCXW141580807 BCX0"">Alles zu Angebot, Unternehmen und #Entwicklungskultur findest du hier: <a href=""https://brandad.dev"" rel=""nofollow"">https://brandad.dev</a></span></span><a href=""https://brandad.dev"" rel=""nofollow""><span class=""EOP SCXW141580807 BCX0"">&nbsp;</span></a></p>
+</div>
+<div class=""OutlineElement Ltr SCXW158327104 BCX0"">
+<p class=""Paragraph SCXW158327104 BCX0""><strong><span class=""TextRun SCXW158327104 BCX0""><span class=""NormalTextRun SCXW158327104 BCX0"">Was&nbsp;</span><span class=""NormalTextRun SCXW158327104 BCX0"">jetzt&nbsp;</span><span class=""NormalTextRun SCXW158327104 BCX0"">noch fehlt? Du!</span></span><span class=""EOP SCXW158327104 BCX0"">&nbsp;</span></strong></p>
+</div>
+<div class=""OutlineElement Ltr SCXW158327104 BCX0"">
+<p class=""Paragraph SCXW158327104 BCX0""><span class=""TextRun SCXW158327104 BCX0""><span class=""NormalTextRun SCXW158327104 BCX0"">Melde dich bei Fragen jederzeit bei mir –</span>&nbsp;<span class=""NormalTextRun SCXW158327104 BCX0"">i</span><span class=""NormalTextRun SCXW158327104 BCX0"">ch freue mich darauf,&nbsp;</span><span class=""NormalTextRun SCXW158327104 BCX0"">d</span><span class=""NormalTextRun SCXW158327104 BCX0"">ich kennenzulernen!</span></span><span class=""EOP SCXW158327104 BCX0"">&nbsp;</span></p>
+</div>
+
+";;1769103402700;0;1769103402700;;;Natalia;Streck;;;;;Natalia.streck@brandad-systems.de;https://app.softgarden.io/assets/public/media/get/05ed1f57-ba8a-452d-932e-2a0af8f7c327/1639486366579/1604964991702.jpg;People Enthusiast & Talent Ambassador;https://short.sg/j/14637498;BRANDAD Group AG;bf4c49f6-8454-48f8-8311-8f8bf9d01ecd;922802;/images/softgarden/Software_Entwickler_angular_1224_816px.jpg;de;IT, Software, Softwareentwicklung, Entwicklung, Anwendungsentwicklung, Frontend, Web-Technologie, Angular, Typescript, Informatiker, Fachinformatiker, Programmieren, Programmierer, Coden, Backend, Clean Code, BRANDAD Development;8971251ad5df45fa9be0ae113a9d532a;Job Ad Layout;REMOTE_FLEXIBLE;Festanstellung;Vollzeitstelle
 14637273;Software­entwickler (w/m/d) - Schwerpunkt: Angular;Software­entwickler (w/m/d) - Schwerpunkt: Angular;https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637273&ADP;['sam42_it'];['3a3b1f6e7f000002010ad492e7837dd6'];['6'];['137caf67764c4b63b0272895af1704b0'];['22'];['1b4f51fe628c4119a2d7a581557d0944'];49.4771169;10.988667;Fürth, Deutschland;Deutschland;Bayern;Fürth;;;"<b>DAS WARTET AUF DICH:</b>
 <p>Du entwickelst smarte Softwareprodukte mit End-to-End Verantwortung, überblickst den gesamten Entwicklungsprozess und arbeitest u.a. mit Pair-Programming, Code Reviews und Testautomatisierung an Lösungen auf höchstem Qualitäts-Niveau.</p>
 <p>Tech-Stack (priorisiert): Angular, TypeScript, Java Spring Boot, HTML/JS, JPA, SQL, Microservices, Git, Gradle, Jenkins, CI/CD, Docker, REST, SOAP</p>
@@ -18,7 +131,7 @@ jobDbId;externalPostingName;internalPostingName;applyOnlineLink;jobCategories;au
 <p>Diversität ist für uns das Salz in der Suppe. Ob Pippi Langstrumpf oder Anika, wir heißen dich so wie du bist willkommen und freuen uns auf die Bereicherung durch dich als Menschen.</p>
 <p>Na, dir kribbeln die Finger?! Uns auch! 90 BAStis freuen sich schon auf deine Bewerbung!</p>
 
-";;1766159282741;0;1766159282741;;;Natalia;Streck;;;;;Natalia.streck@brandad-systems.de;https://app.softgarden.io/assets/public/media/get/05ed1f57-ba8a-452d-932e-2a0af8f7c327/1639486366579/1604964991702.jpg;People Enthusiast & Talent Ambassador;https://short.sg/j/14637273;BRANDAD Group AG;bf4c49f6-8454-48f8-8311-8f8bf9d01ecd;922278;/images/softgarden/Software_Entwickler_angular_1224_816px.jpg;de;IT, Software, Softwareentwicklung, Entwicklung, Anwendungsentwicklung, Frontend, Web-Technologie, Angular, BRANDAD Development;8971251ad5df45fa9be0ae113a9d532a;Job Ad Layout;REMOTE_FLEXIBLE;Festanstellung;Vollzeitstelle
+";;1766159282741;0;1766159282741;;;Natalia;Streck;;;;;Natalia.streck@brandad-systems.de;https://app.softgarden.io/assets/public/media/get/05ed1f57-ba8a-452d-932e-2a0af8f7c327/1639486366579/1604964991702.jpg;People Enthusiast & Talent Ambassador;https://short.sg/j/14637273;BRANDAD Group AG;bf4c49f6-8454-48f8-8311-8f8bf9d01ecd;922278;/images/softgarden/Patrick_Microservice.jpg;de;IT, Software, Softwareentwicklung, Entwicklung, Anwendungsentwicklung, Frontend, Web-Technologie, Angular, BRANDAD Development;8971251ad5df45fa9be0ae113a9d532a;Job Ad Layout;REMOTE_FLEXIBLE;Festanstellung;Vollzeitstelle
 14636788;Fullstack Entwickler (w/m/d);Fullstack Entwickler (w/m/d);https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636788&ADP;['sam42_it'];['3a3b1f6e7f000002010ad492e7837dd6'];['6'];['137caf67764c4b63b0272895af1704b0'];['22'];['1b4f51fe628c4119a2d7a581557d0944'];49.4771169;10.988667;Fürth, Deutschland;Deutschland;Bayern;Fürth;;;"<b>DEINE MISSION</b>
 <ul>
 <li>Du hast tolle Ideen und willst diese umsetzen? Dann bist du bei uns genau richtig.</li>
@@ -59,66 +172,6 @@ jobDbId;externalPostingName;internalPostingName;applyOnlineLink;jobCategories;au
 </div>
 
 ";;1766159234364;0;1766159234364;;;Natalia;Streck;;;;;Natalia.streck@brandad-systems.de;https://app.softgarden.io/assets/public/media/get/05ed1f57-ba8a-452d-932e-2a0af8f7c327/1639486366579/1604964991702.jpg;People Enthusiast & Talent Ambassador;https://short.sg/j/14636788;BRANDAD Group AG;bf4c49f6-8454-48f8-8311-8f8bf9d01ecd;922285;/images/softgarden/company-brandad-people-10.jpg;de;Entwickler, Fullstack, IT, Entwicklung, Programmieren, Programmierer, Fullstack, Backend, Frontend, FiA, Fachinformatiker, JavaScript, Angular, CSS, HTML, Anwendungsentwicklung, BRANDAD Development;8971251ad5df45fa9be0ae113a9d532a;Job Ad Layout;REMOTE_FLEXIBLE;Festanstellung;Vollzeitstelle
-14637498;Softwareentwickler (w/m/d) - Frontend;Softwareentwickler (w/m/d) - Frontend;https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP;['sam42_it'];['3a3b1f6e7f000002010ad492e7837dd6'];['6'];['137caf67764c4b63b0272895af1704b0'];['22'];['1b4f51fe628c4119a2d7a581557d0944'];49.4771169;10.988667;Fürth, Deutschland;Deutschland;Bayern;Fürth;;;"<b>DIESE AUFGABEN WARTEN AUF DICH:</b>
-<p>Wir erklären dir als Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst – nicht<br>hier und auch nicht, wenn du bei uns anfängst. Deine Eigenverantwortung sowie die Verantwortung<br>deinen Kolleginnen und Kollegen gegenüber sind uns immens wichtig.&nbsp; Noch wichtiger ist nur, dass du Bock auf unsere <a href=""https://brandad.dev/"" rel=""nofollow"">#Entwicklungskultur</a> hast: Du füllst die Stelle mit Leben und entwickelst sie und das ganze Unternehmen weiter.</p>
-<p>Du entwickelst smarte Softwareprodukte mit End-to-End Verantwortung, überblickst den gesamten Entwicklungsprozess und arbeitest u.a. mit Pair-Programming, Code Reviews und Testautomatisierung an Lösungen auf höchstem Qualitäts-Niveau.</p>
-<p>Tech-Stack (priorisiert): Angular, TypeScript, Java Spring Boot, HTML/JS, JPA, SQL, Microservices, Git, Gradle, Jenkins, CI/CD, Docker, REST, SOAP<br><br>Wie der Alltag einer Frontend-Entwicklerin bzw. eines Frontend-Entwicklers bei BRANDAD aussieht, findest du hier:&nbsp;</p>
-<p><a href=""https://www.youtube.com/watch?v=88XjwlRGvqo"" rel=""nofollow"">https://www.youtube.com/watch?v=88XjwlRGvqo</a></p>
-
-<b>DAS TRIFFT AUF DICH ZU:</b>
-<ul>
-<li>Du bist Vollblutssoftwareentwickler und hast dein Studium abgeschlossen. Alternativ hast du auf anderem Wege eine vergleichbare Qualifikation erreicht.</li>
-<li>HTML, CSS und JavaScript zählen zu deinen Stärken.</li>
-<li>Du kannst tiefgreifende Projekterfahrung mit Angular und TypeScript vorweisen.</li>
-<li>Du stellst hohe Ansprüche an die Qualität und Robustheit deines Quellcodes und berücksichtigst deshalb bei der Entwicklung stets die Prinzipien von Clean Code.</li>
-<li>Du strebst jederzeit ein intuitives und benutzerfreundliches UI-Design an.</li>
-<li>Du hast eine aufgeschlossene, profilierte Persönlichkeit entwickelt und freust dich darauf, Verantwortung zu übernehmen.</li>
-</ul>
-
-<b>DARAUF KANNST DU DICH FREUEN:</b>
-<div class=""SCXW256390454 BCX0"">
-<div class=""ListContainerWrapper SCXW256390454 BCX0"">
-<ul class=""BulletListStyle1 SCXW256390454 BCX0"">
-<li class=""OutlineElement Ltr SCXW256390454 BCX0"">
-<p class=""Paragraph SCXW256390454 BCX0""><span class=""TextRun SCXW256390454 BCX0""><span class=""NormalTextRun SCXW256390454 BCX0"">Den Raum,&nbsp;</span><span class=""NormalTextRun SCXW256390454 BCX0"">den Nährboden</span><span class=""NormalTextRun SCXW256390454 BCX0"">&nbsp;und den Rückhalt, um&nbsp;</span><span class=""NormalTextRun SCXW256390454 BCX0"">tolle</span><span class=""NormalTextRun SCXW256390454 BCX0""> Ideen zu entwickeln und umzusetzen&nbsp;</span></span></p>
-</li>
-<li class=""OutlineElement Ltr SCXW256390454 BCX0"">
-<p class=""Paragraph SCXW256390454 BCX0""><span class=""TextRun SCXW256390454 BCX0""><span class=""NormalTextRun SCXW256390454 BCX0"">Lösungsorientierte Kolleginnen und Kollegen, die i</span><span class=""NormalTextRun SCXW256390454 BCX0"">n</span><span class=""NormalTextRun SCXW256390454 BCX0"">&nbsp;unkonventionellen Wegen kein Problem, sondern eine Bereicherung sehen</span></span><span class=""EOP SCXW256390454 BCX0"">&nbsp;</span></p>
-</li>
-</ul>
-</div>
-</div>
-<div class=""SCXW256390454 BCX0"">
-<div class=""ListContainerWrapper SCXW256390454 BCX0"">
-<ul class=""BulletListStyle1 SCXW256390454 BCX0"">
-<li class=""OutlineElement Ltr SCXW256390454 BCX0"">
-<p class=""Paragraph SCXW256390454 BCX0""><span class=""TextRun SCXW256390454 BCX0""><span class=""NormalTextRun SCXW256390454 BCX0"">Lebendige Lernkultur, in der Fehler als Chancen zur Verbesserung einfach dazugehören</span></span><span class=""EOP SCXW256390454 BCX0"">&nbsp;</span></p>
-</li>
-<li class=""OutlineElement Ltr SCXW256390454 BCX0"">
-<p class=""Paragraph SCXW256390454 BCX0""><span class=""TextRun SCXW256390454 BCX0""><span class=""NormalTextRun SCXW256390454 BCX0"">Bewusste&nbsp;</span><span class=""NormalTextRun SCXW256390454 BCX0"">Abkehr von der klassischen Machthierarchie</span></span><span class=""EOP SCXW256390454 BCX0"">&nbsp;</span></p>
-</li>
-<li class=""OutlineElement Ltr SCXW256390454 BCX0"">
-<p class=""Paragraph SCXW256390454 BCX0""><span class=""TextRun SCXW256390454 BCX0""><span class=""NormalTextRun SCXW256390454 BCX0"">Ein schönes Büro in zentraler</span><span class=""NormalTextRun SCXW256390454 BCX0"">, verkehrsgünstiger</span><span class=""NormalTextRun SCXW256390454 BCX0"">&nbsp;Lage … und die Möglichkeit</span><span class=""NormalTextRun SCXW256390454 BCX0"">,</span><span class=""NormalTextRun SCXW256390454 BCX0"">&nbsp;es nur&nbsp;</span><span class=""NormalTextRun SCXW256390454 BCX0"">dann&nbsp;</span><span class=""NormalTextRun SCXW256390454 BCX0"">auf</span><span class=""NormalTextRun SCXW256390454 BCX0"">zu</span><span class=""NormalTextRun SCXW256390454 BCX0"">such</span><span class=""NormalTextRun SCXW256390454 BCX0"">en, wenn du&nbsp;</span><span class=""NormalTextRun SCXW256390454 BCX0"">das</span><span class=""NormalTextRun SCXW256390454 BCX0"">&nbsp;mobile Arbeit</span><span class=""NormalTextRun SCXW256390454 BCX0"">en</span>&nbsp;<span class=""NormalTextRun SCXW256390454 BCX0"">satthast</span></span><span class=""EOP SCXW256390454 BCX0"">&nbsp;</span></p>
-</li>
-<li class=""OutlineElement Ltr SCXW256390454 BCX0"">
-<p class=""Paragraph SCXW256390454 BCX0""><span class=""TextRun SCXW256390454 BCX0""><span class=""NormalTextRun SCXW256390454 BCX0"">Viele und vielfältige Kolleginnen und Kollegen in der BRANDAD-Unternehmensgruppe</span><span class=""NormalTextRun SCXW256390454 BCX0"">&nbsp;– ein bunter Haufen aus mehr als 100 interessanten Menschen</span></span><span class=""EOP SCXW256390454 BCX0"">&nbsp;</span></p>
-</li>
-</ul>
-</div>
-</div>
-
-<b>WIR SIND BRANDAD:</b>
-<p><span class=""TextRun SCXW124067925 BCX0""><span class=""NormalTextRun SCXW124067925 BCX0"">Bei&nbsp;<strong>BRANDAD Development</strong></span></span><span class=""TextRun SCXW124067925 BCX0""><strong>&nbsp;</strong><span class=""NormalTextRun SCXW124067925 BCX0"">stellen wir unseren Kunden&nbsp;</span><span class=""NormalTextRun SpellingErrorV2Themed SCXW124067925 BCX0"">crossfunktionale</span>&nbsp;<span class=""NormalTextRun SCXW124067925 BCX0"">Softwareentwicklungs-</span><span class=""NormalTextRun SCXW124067925 BCX0"">Teams a</span><span class=""NormalTextRun SCXW124067925 BCX0"">n die Seite, die nicht nur Software für sie&nbsp;</span><span class=""NormalTextRun SCXW124067925 BCX0"">und mit ihnen&nbsp;</span><span class=""NormalTextRun SCXW124067925 BCX0"">entwickeln, sondern&nbsp;</span><span class=""NormalTextRun SCXW124067925 BCX0"">auch die geballte Power an Erfahrung und Know-</span><span class=""NormalTextRun SCXW124067925 BCX0"">h</span><span class=""NormalTextRun SCXW124067925 BCX0"">ow rund um agile Methoden mit ihnen teilen.</span></span><span class=""TrackChangeTextInsertion TrackedChange SCXW124067925 BCX0""><span class=""TextRun SCXW124067925 BCX0""><span class=""NormalTextRun SCXW124067925 BCX0"">&nbsp;</span></span></span></p>
-<p><span class=""TrackChangeTextInsertion TrackedChange SCXW124067925 BCX0""><span class=""TextRun SCXW124067925 BCX0""><span class=""NormalTextRun SCXW124067925 BCX0""><span class=""TextRun SCXW90133632 BCX0""><span class=""NormalTextRun TrackChangeHoverSelectHighlightRed SCXW90133632 BCX0"">Alles zu Angebot, Unternehmen und #Entwicklungskultur findest du hier: https://brandad.dev</span></span></span></span></span></p>
-<p>&nbsp;</p>
-<div class=""OutlineElement Ltr SCXW158327104 BCX0"">
-<p class=""Paragraph SCXW158327104 BCX0""><strong><span class=""TextRun SCXW158327104 BCX0""><span class=""NormalTextRun SCXW158327104 BCX0"">Was&nbsp;</span><span class=""NormalTextRun SCXW158327104 BCX0"">jetzt&nbsp;</span><span class=""NormalTextRun SCXW158327104 BCX0"">noch fehlt? Du!</span></span><span class=""EOP SCXW158327104 BCX0"">&nbsp;</span></strong></p>
-</div>
-<div class=""OutlineElement Ltr SCXW158327104 BCX0"">
-<p class=""Paragraph SCXW158327104 BCX0""><span class=""TextRun SCXW158327104 BCX0""><span class=""NormalTextRun SCXW158327104 BCX0"">Melde dich bei Fragen jederzeit bei mir –</span>&nbsp;<span class=""NormalTextRun SCXW158327104 BCX0"">i</span><span class=""NormalTextRun SCXW158327104 BCX0"">ch freue mich darauf,&nbsp;</span><span class=""NormalTextRun SCXW158327104 BCX0"">d</span><span class=""NormalTextRun SCXW158327104 BCX0"">ich kennenzulernen!</span></span><span class=""EOP SCXW158327104 BCX0"">&nbsp;</span></p>
-</div>
-
-";;1766159111459;0;1766159111459;;;Natalia;Streck;;;;;Natalia.streck@brandad-systems.de;https://app.softgarden.io/assets/public/media/get/05ed1f57-ba8a-452d-932e-2a0af8f7c327/1639486366579/1604964991702.jpg;People Enthusiast & Talent Ambassador;https://short.sg/j/14637498;BRANDAD Group AG;bf4c49f6-8454-48f8-8311-8f8bf9d01ecd;922802;/images/softgarden/Patrick_Microservice.jpg;de;IT, Software, Softwareentwicklung, Entwicklung, Anwendungsentwicklung, Frontend, Web-Technologie, Angular, Typescript, Informatiker, Fachinformatiker, Programmieren, Programmierer, Coden, Backend, Clean Code, BRANDAD Development;8971251ad5df45fa9be0ae113a9d532a;Job Ad Layout;REMOTE_FLEXIBLE;Festanstellung;Vollzeitstelle
 21026240;Technischer Product Owner (w/m/d)  ;Technischer Product Owner (w/m/d)  ;https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=21026240&ADP;['sam42_it'];['3a3b1f6e7f000002010ad492e7837dd6'];['6'];['137caf67764c4b63b0272895af1704b0'];['58'];['1b4f51fe628c4119a2d7a581557d0944'];49.4771169;10.988667;Fürth, Deutschland;Deutschland;Bayern;Fürth;;;"<b>DAS IST DEINE ROLLE:</b>
 <p>Als „Visionär“ fühlst du dich stets dem Erfolg des Produkts verpflichtet und setzt dein Fokus auf die technischen Aspekte von „WAS“ - in einer engen Zusammenarbeit mit dem strategischen PO bei unserem Kunden.</p>
 

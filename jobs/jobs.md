@@ -1,3 +1,14 @@
+### Softwareentwickler (w/m/d) - Frontend
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH:  Wir erklären dir als Frontend-Entwicklerin bzw. Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637498) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP)
+
+---
+
 ### Software­entwickler (w/m/d) - Schwerpunkt: Angular
 
 - **Wo?** Fürth, Deutschland
@@ -17,17 +28,6 @@
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DEINE MISSION  Du hast tolle Ideen und willst diese umsetzen? Dann bist du bei uns genau richtig. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636788) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636788&ADP)
-
----
-
-### Softwareentwickler (w/m/d) - Frontend
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DIESE AUFGABEN WARTEN AUF DICH: Wir erklären dir als Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst – nichthier und auch nicht, wenn du bei uns anfängst. Deine Eigenverantwortung sowie die Verantwortungdeinen Kolleginnen und Kollegen gegenüber sind uns immens wichtig. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637498) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP)
 
 ---
 
