@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-02-13, 07:22)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-02-14, 07:15)
 
 ### Softwareentwickler (w/m/d) - Frontend
 
