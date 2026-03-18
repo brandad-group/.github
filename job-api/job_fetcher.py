@@ -31,7 +31,8 @@ class JobFetcher:
         self.full_or_parttime_default = "137caf67764c4b63b0272895af1704b0"
         self.full_or_parttime_name = "Arbeitszeit"
         self.jobexperience_mappings = {
-            "1b4f51fe628c4119a2d7a581557d0944": "mit Berufserfahrung"
+            "1b4f51fe628c4119a2d7a581557d0944": "mit Berufserfahrung",
+            "0a01c25fd9e34663bf4464094e648090": "ohne Berufserfahrung"
         }
 
         if csv_path is None:
