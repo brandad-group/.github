@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-03-17, 07:24)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-03-18, 09:22)
+
+### Ausbildung zum Fachinformatiker (w/m/d) für Anwendungsentwicklung
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** ohne Berufserfahrung
+- **Wie?** Auszubildendenstelle in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** Ausbildung zum Fachinformatiker (w/m/d) für Anwendungsentwicklung Hey du! Du hast dein Abitur in der Tasche und Bock auf Softwareentwicklung oder gemerkt, dass dir im Studium die Praxis mehr fehlt als die nächste Vorlesung? ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/63582749) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=63582749&ADP)
+
+---
 
 ### Softwareentwickler (w/m/d) - Frontend
 
