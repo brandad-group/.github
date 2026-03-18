@@ -45,6 +45,7 @@ class JobFetcher:
             response = requests.get(joblist_url, auth=(self.client_id, self.password))
             response.encoding = 'utf-8'
             jobs = response.json()["results"]
+            print(f"DEBUG: {jobs}")
             self.process_jobs(jobs)
         except Exception as e:
             print(f"API request failed: {e}")
