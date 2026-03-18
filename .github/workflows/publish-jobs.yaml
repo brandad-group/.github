@@ -38,3 +38,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           add_options: '--all'
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: technikBA <6840495+technikBA@users.noreply.github.com>
