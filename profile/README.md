@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-03-20, 07:20)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-03-21, 07:14)
 
 ### Ausbildung zum Fachinformatiker (w/m/d) für Anwendungsentwicklung
 
