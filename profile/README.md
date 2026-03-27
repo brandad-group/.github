@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-03-26, 07:28)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-03-27, 07:28)
+
+### Sales & Marketing Operations Manager (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE:  Du sorgst dafür, dass Vertrieb, Marketing und unsere digitalen Tools und Prozesse optimal zusammenspielen. Dabei übernimmst du zentrale operative Themen: von der Weiterentwicklung unseres CRM, der Koordination unserer digitalen Marketingkanäle bis zum Auf- und Ausbau unserer internen KI-Agenten-Landschaft. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/63779434) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=63779434&ADP)
+
+---
 
 ### Ausbildung zum Fachinformatiker (w/m/d) für Anwendungsentwicklung
 
