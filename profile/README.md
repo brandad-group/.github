@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-03-30, 07:34)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-03-31, 07:32)
 
 ### Sales & Marketing Operations Manager (w/m/d)
 
