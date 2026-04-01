@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-03-31, 07:32)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-04-01, 07:33)
+
+### Aplication Operations Engineer (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Die Anwendungen, die du betreust, laufen im Kundeneinsatz: Genau dafür übernimmst du die Verantwortung. Du sorgst dafür, dass diese Systeme stabil, sicher und ohne unnötige Überraschungen funktionieren. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/63910279) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=63910279&ADP)
+
+---
 
 ### Sales & Marketing Operations Manager (w/m/d)
 
