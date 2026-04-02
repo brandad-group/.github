@@ -17,9 +17,9 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-04-01, 07:33)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-04-02, 07:31)
 
-### Aplication Operations Engineer (w/m/d)
+### Application Operations Engineer (w/m/d)
 
 - **Wo?** Fürth, Deutschland
 - **Wer?** mit Berufserfahrung

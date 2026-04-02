@@ -1,4 +1,4 @@
-### Aplication Operations Engineer (w/m/d)
+### Application Operations Engineer (w/m/d)
 
 - **Wo?** Fürth, Deutschland
 - **Wer?** mit Berufserfahrung
