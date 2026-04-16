@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-04-15, 07:34)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-04-16, 07:34)
 
 ### Application Operations Engineer (w/m/d)
 
