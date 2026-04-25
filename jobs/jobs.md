@@ -1,4 +1,4 @@
-### Application Operations Engineer (w/m/d)
+### DevOps Engineer (w/m/d)
 
 - **Wo?** Fürth, Deutschland
 - **Wer?** mit Berufserfahrung
