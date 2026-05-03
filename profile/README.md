@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-05-02, 07:33)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-05-03, 07:36)
 
 ### DevOps Engineer (w/m/d)
 
