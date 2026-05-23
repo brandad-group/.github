@@ -17,7 +17,40 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-05-22, 08:08)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-05-23, 07:49)
+
+### Technischer Product Owner (w/m/d)  
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als „Visionär“ fühlst du dich stets dem Erfolg des Produkts verpflichtet und setzt dein Fokus auf die technischen Aspekte von „WAS“ - in einer engen Zusammenarbeit mit dem strategischen PO bei unserem Kunden. DAS IST DEIN UMFELD:  Zusammen mit den Experten aus der Entwicklung, UX-Engineering sowie Scrum Master bildest du ein stabiles Software-Entwicklungsteam. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/21026240) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=21026240&ADP)
+
+---
+
+### Softwareentwickler (w/m/d) - Frontend
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH:  Wir erklären dir als Frontend-Entwicklerin bzw. Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637498) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP)
+
+---
+
+### Senior Scrum Master/Agile Coach (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Voll- oder Teilzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Den Job als Scrum Master/Agile Coach müssen wir dir nicht erklären, deine Rolle kennst du selbst am besten. DAS IST DEIN UMFELD:  Du begleitest genau ein Software-Entwicklungsteam auf seinem Weg, so dass du den Fokus auf das Team halten kannst und auch genug Zeit hast, innerhalb des Unternehmens Dein Umfeld mitzugestalten. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636793) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636793&ADP)
+
+---
 
 ### DevOps Engineer (w/m/d)
 
@@ -41,17 +74,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-### Softwareentwickler (w/m/d) - Frontend
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH:  Wir erklären dir als Frontend-Entwicklerin bzw. Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637498) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP)
-
----
-
 ### Software­entwickler (w/m/d) - Schwerpunkt: Angular
 
 - **Wo?** Fürth, Deutschland
@@ -71,28 +93,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DEINE MISSION  Du hast tolle Ideen und willst diese umsetzen? Dann bist du bei uns genau richtig. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636788) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636788&ADP)
-
----
-
-### Technischer Product Owner (w/m/d)  
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als „Visionär“ fühlst du dich stets dem Erfolg des Produkts verpflichtet und setzt dein Fokus auf die technischen Aspekte von „WAS“ - in einer engen Zusammenarbeit mit dem strategischen PO bei unserem Kunden. DAS IST DEIN UMFELD:  Zusammen mit den Experten aus der Entwicklung, UX-Engineering sowie Scrum Master bildest du ein stabiles Software-Entwicklungsteam. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/21026240) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=21026240&ADP)
-
----
-
-### Senior Scrum Master/Agile Coach (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Voll- oder Teilzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Den Job als Scrum Master/Agile Coach müssen wir dir nicht erklären, deine Rolle kennst du selbst am besten. DAS IST DEIN UMFELD:  Du begleitest genau ein Software-Entwicklungsteam auf seinem Weg, so dass du den Fokus auf das Team halten kannst und auch genug Zeit hast, innerhalb des Unternehmens Dein Umfeld mitzugestalten. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636793) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636793&ADP)
 
 ---
 
