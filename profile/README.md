@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-07-02, 08:03)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-07-03, 08:02)
 
 ### Technischer Product Owner (w/m/d)  
 
@@ -60,17 +60,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Die Anwendungen, die du betreust, laufen im Kundeneinsatz: Genau dafür übernimmst du die Verantwortung. Du sorgst dafür, dass diese Systeme stabil, sicher und ohne unnötige Überraschungen funktionieren. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/63910279) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=63910279&ADP)
-
----
-
-### Ausbildung zum Fachinformatiker (w/m/d) für Anwendungsentwicklung
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** ohne Berufserfahrung
-- **Wie?** Auszubildendenstelle in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** Ausbildung zum Fachinformatiker (w/m/d) für Anwendungsentwicklung Hey du! Du hast dein Abitur in der Tasche und Bock auf Softwareentwicklung oder gemerkt, dass dir im Studium die Praxis mehr fehlt als die nächste Vorlesung? ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/63582749) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=63582749&ADP)
 
 ---
 
