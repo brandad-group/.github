@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-07-03, 08:02)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-07-04, 07:57)
 
 ### Technischer Product Owner (w/m/d)  
 
