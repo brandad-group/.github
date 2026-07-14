@@ -1,3 +1,25 @@
+### Softwareentwickler (w/m/d) - Backend
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DIESE AUFGABENFELDER WARTEN AUF DICH:  Du entwickelst neue Produktfeatures und treibst die Verbesserung der Architektur unserer Microservices voran. Im Vorfeld der Sprints analysierst und beurteilst du User Stories. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14638203) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14638203&ADP)
+
+---
+
+### Fullstack Entwickler (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DEINE MISSION  Du hast tolle Ideen und willst diese umsetzen? Dann bist du bei uns genau richtig. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636788) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636788&ADP)
+
+---
+
 ### Technischer Product Owner (w/m/d)  
 
 - **Wo?** Fürth, Deutschland
@@ -31,17 +53,6 @@
 
 ---
 
-### DevOps Engineer (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Die Anwendungen, die du betreust, laufen im Kundeneinsatz: Genau dafür übernimmst du die Verantwortung. Du sorgst dafür, dass diese Systeme stabil, sicher und ohne unnötige Überraschungen funktionieren. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/63910279) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=63910279&ADP)
-
----
-
 ### Software­entwickler (w/m/d) - Schwerpunkt: Angular
 
 - **Wo?** Fürth, Deutschland
@@ -53,17 +64,6 @@
 
 ---
 
-### Fullstack Entwickler (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DEINE MISSION  Du hast tolle Ideen und willst diese umsetzen? Dann bist du bei uns genau richtig. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636788) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636788&ADP)
-
----
-
 ### Initiativbewerbung
 
 - **Wo?** Fürth, Deutschland
@@ -72,17 +72,6 @@
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** WIR FREUEN UNS DICH KENNEN ZU LERNEN! Bei BRANDAD Systems entdeckst du die vielseitige Welt zwischen IT und Marketing. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636423) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636423&ADP)
-
----
-
-### Softwareentwickler (w/m/d) - Backend
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DIESE AUFGABENFELDER WARTEN AUF DICH:  Du entwickelst neue Produktfeatures und treibst die Verbesserung der Architektur unserer Microservices voran. Im Vorfeld der Sprints analysierst und beurteilst du User Stories. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14638203) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14638203&ADP)
 
 ---
 
