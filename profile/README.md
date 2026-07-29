@@ -17,18 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-07-16, 07:42)
-
-### Softwareentwickler (w/m/d) - Backend
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DIESE AUFGABENFELDER WARTEN AUF DICH:  Du entwickelst neue Produktfeatures und treibst die Verbesserung der Architektur unserer Microservices voran. Im Vorfeld der Sprints analysierst und beurteilst du User Stories. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14638203) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14638203&ADP)
-
----
+## aktuelle Jobs (zuletzt aktualisiert: 2026-07-29, 07:55)
 
 ### Fullstack Entwickler (w/m/d)
 
@@ -41,17 +30,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-### Technischer Product Owner (w/m/d)  
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als „Visionär“ fühlst du dich stets dem Erfolg des Produkts verpflichtet und setzt dein Fokus auf die technischen Aspekte von „WAS“ - in einer engen Zusammenarbeit mit dem strategischen PO bei unserem Kunden. DAS IST DEIN UMFELD:  Zusammen mit den Experten aus der Entwicklung, UX-Engineering sowie Scrum Master bildest du ein stabiles Software-Entwicklungsteam. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/21026240) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=21026240&ADP)
-
----
-
 ### Softwareentwickler (w/m/d) - Frontend
 
 - **Wo?** Fürth, Deutschland
@@ -60,6 +38,50 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH:  Wir erklären dir als Frontend-Entwicklerin bzw. Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637498) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637498&ADP)
+
+---
+
+### Softwareentwickler (w/m/d) - Backend
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DIESE AUFGABENFELDER WARTEN AUF DICH:  Du entwickelst neue Produktfeatures und treibst die Verbesserung der Architektur unserer Microservices voran. Im Vorfeld der Sprints analysierst und beurteilst du User Stories. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14638203) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14638203&ADP)
+
+---
+
+### Technischer Projektmanager im MarTech-Umfeld  (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als "Koordinator" fühlst du dich dem erfolgreichen Ablauf technischer MarTech-Projekte verpflichtet und setzt deinen Fokus auf die technische Umsetzung sowie die Zusammenarbeit zwischen Kunden, Fachbereichen und Entwicklungsteams. Ergänzend sorgst du im Support für eine zuverlässige Betreuung der eingesetzten Lösungen, koordinierst technische Anfragen und treibst dere nachhaltige Optimierung voran. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66139643) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66139643&ADP)
+
+---
+
+### Technischer Kundenberater (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE:  Als Kundenberater begleitest du unsere Kunden bei der technischen Nutzung unserer Lösungen und verbindest ihre fachlichen Anforderungen mit den passenden technischen Möglichkeiten. Mit deinem Beratungsansatz schaffst du nachhaltige Lösungen, baust vertrauensvolle Kundenbeziehungen auf und sorgst für eine erfolgreiche Zusammenarbeit über den gesamten Projektverlauf hinweg. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66139633) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66139633&ADP)
+
+---
+
+### Technischer Product Owner (w/m/d)  
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als „Visionär“ fühlst du dich stets dem Erfolg des Produkts verpflichtet und setzt dein Fokus auf die technischen Aspekte von „WAS“ - in einer engen Zusammenarbeit mit dem strategischen PO bei unserem Kunden. DAS IST DEIN UMFELD:  Zusammen mit den Experten aus der Entwicklung, UX-Engineering sowie Scrum Master bildest du ein stabiles Software-Entwicklungsteam. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/21026240) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=21026240&ADP)
 
 ---
 
