@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-07-29, 07:55)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-07-30, 07:49)
 
 ### Fullstack Entwickler (w/m/d)
 
