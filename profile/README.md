@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-07-30, 07:49)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-07-31, 09:38)
+
+### Softwareentwickler (w/m/d) - Frontend mit UX-Erfahrung
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH: Wir erklären dir als Frontend-Entwicklerin bzw. Frontend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66466263) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66466263&ADP)
+
+---
 
 ### Fullstack Entwickler (w/m/d)
 
