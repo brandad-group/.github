@@ -1,3 +1,14 @@
+### Softwareentwickler (w/m/d) - Backend Schwerpunkt Java
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH: Wir erklären dir als Backend-Entwicklerin bzw. Backend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66541058) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66541058&ADP)
+
+---
+
 ### Softwareentwickler (w/m/d) - Frontend mit UX-Erfahrung
 
 - **Wo?** Fürth, Deutschland
