@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-08-07, 07:30)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-08-08, 07:21)
 
 ### Softwareentwickler (w/m/d) - Backend Schwerpunkt Java
 
