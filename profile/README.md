@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-08-13, 07:31)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-08-14, 07:30)
+
+### Fullstack Entwickler Backend (w/m/d) - AI-Native Software Engineering 
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH Wir suchen Entwicklerinnen und Entwickler, die die Zukunft der Softwareentwicklung aktiv mitgestalten wollen: mit gelebter Erfahrung in Agentic Coding und modernen KI-Workflows, nicht nur mit der Bereitschaft, sie irgendwann mal auszuprobieren. Dabei erklären wir dir nicht, wie du deinen Job machen sollst – weder hier noch später, wenn du bei uns startest. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66715143) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66715143&ADP)
+
+---
 
 ### Softwareentwickler (w/m/d) - Backend Schwerpunkt Java
 
