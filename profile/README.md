@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-08-19, 07:16)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-08-20, 07:17)
 
 ### Fullstack Entwickler Backend (w/m/d) - AI-Native Software Engineering 
 
