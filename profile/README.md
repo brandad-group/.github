@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-09-30, 07:17)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-10-01, 07:18)
+
+### Scrum Master Trainee (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Voll- oder Teilzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** Du möchtest Teams dabei unterstützen, Verantwortung zu übernehmen, gut zusammenzuarbeiten und wirksam Wert für ihre Kunden zu schaffen? Dann bereiten wir dich gezielt darauf vor, die Scrum Mastery für ein eigenes Team zu übernehmen. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/67771662) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=67771662&ADP)
+
+---
 
 ### DevOps Engineer (w/m/d)
 
