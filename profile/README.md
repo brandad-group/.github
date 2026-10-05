@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-10-04, 09:04)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-10-05, 07:31)
 
 ### Scrum Master Trainee (w/m/d)
 
