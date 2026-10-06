@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-10-05, 07:31)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-10-06, 07:17)
+
+### Senior Sales & Business Development Manager – Software & AI (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** Und bei dieser Stelle meinen wir das ziemlich wörtlich: Unser Vertrieb ist kein fertiges System, das du übernimmst. Du baust es mit uns auf. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/67887747) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=67887747&ADP)
+
+---
 
 ### Scrum Master Trainee (w/m/d)
 
@@ -148,17 +159,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Den Job als Scrum Master/Agile Coach müssen wir dir nicht erklären, deine Rolle kennst du selbst am besten. DAS IST DEIN UMFELD:  Du begleitest genau ein Software-Entwicklungsteam auf seinem Weg, so dass du den Fokus auf das Team halten kannst und auch genug Zeit hast, innerhalb des Unternehmens Dein Umfeld mitzugestalten. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14636793) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14636793&ADP)
-
----
-
-### Software­entwickler (w/m/d) - Schwerpunkt: Angular
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS WARTET AUF DICH: Du entwickelst smarte Softwareprodukte mit End-to-End Verantwortung, überblickst den gesamten Entwicklungsprozess und arbeitest u.a. mit Pair-Programming, Code Reviews und Testautomatisierung an Lösungen auf höchstem Qualitäts-Niveau. Tech-Stack (priorisiert): Angular, TypeScript, Java Spring Boot, HTML/JS, JPA, SQL, Microservices, Git, Gradle, Jenkins, CI/CD, Docker, REST, SOAP  TRIFFT DAS AUF DICH ZU? ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/14637273) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=14637273&ADP)
 
 ---
 
