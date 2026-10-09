@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-10-08, 07:19)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-10-09, 07:19)
+
+### Systemadministrator (w/m/d) – Schwerpunkt Informationssicherheit 
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als Systemadministrator (w/m/d) sorgst du dafür, dass unsere interne IT-Infrastruktur zuverlässig, sicher und zukunftsfähig aufgestellt ist. Ein besonderer Schwerpunkt deiner Rolle liegt auf der Informationssicherheit und unserem Informationssicherheitsmanagementsystem (ISMS). ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/67978952) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=67978952&ADP)
+
+---
 
 ### Senior Sales & Business Development Manager – Software & AI (w/m/d)
 
@@ -60,17 +71,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH Wir suchen Entwicklerinnen und Entwickler, die die Zukunft der Softwareentwicklung aktiv mitgestalten wollen: mit gelebter Erfahrung in Agentic Coding und modernen KI-Workflows, nicht nur mit der Bereitschaft, sie irgendwann mal auszuprobieren. Dabei erklären wir dir nicht, wie du deinen Job machen sollst – weder hier noch später, wenn du bei uns startest. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66715143) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66715143&ADP)
-
----
-
-### Softwareentwickler (w/m/d) - Backend Schwerpunkt Java
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH: Wir erklären dir als Backend-Entwicklerin bzw. Backend-Entwickler ganz sicher nicht, wie du deinen Job machen sollst. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66541058) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66541058&ADP)
 
 ---
 
