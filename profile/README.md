@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-10-24, 07:09)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-10-25, 07:09)
 
 ### Systemadministrator (w/m/d) – Schwerpunkt Informationssicherheit 
 
