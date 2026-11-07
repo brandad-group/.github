@@ -17,7 +17,29 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-11-06, 07:06)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-11-07, 07:05)
+
+### Fullstack Entwickler Backend (w/m/d) - AI-Native Software Engineering 
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH Wir suchen Entwicklerinnen und Entwickler, die die Zukunft der Softwareentwicklung aktiv mitgestalten wollen: mit gelebter Erfahrung in Agentic Coding und modernen KI-Workflows, nicht nur mit der Bereitschaft, sie irgendwann mal auszuprobieren. Dabei erklären wir dir nicht, wie du deinen Job machen sollst – weder hier noch später, wenn du bei uns startest. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66715143) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66715143&ADP)
+
+---
+
+### DevOps Engineer (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Die Anwendungen, die du betreust, laufen im Kundeneinsatz: Genau dafür übernimmst du die Verantwortung. Du sorgst dafür, dass diese Systeme stabil, sicher und ohne unnötige Überraschungen funktionieren. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/67668207) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=67668207&ADP)
+
+---
 
 ### Systemadministrator (w/m/d) – Schwerpunkt Informationssicherheit 
 
@@ -49,28 +71,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** Du möchtest Teams dabei unterstützen, Verantwortung zu übernehmen, gut zusammenzuarbeiten und wirksam Wert für ihre Kunden zu schaffen? Dann bereiten wir dich gezielt darauf vor, die Scrum Mastery für ein eigenes Team zu übernehmen. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/67771662) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=67771662&ADP)
-
----
-
-### DevOps Engineer (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Die Anwendungen, die du betreust, laufen im Kundeneinsatz: Genau dafür übernimmst du die Verantwortung. Du sorgst dafür, dass diese Systeme stabil, sicher und ohne unnötige Überraschungen funktionieren. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/67668207) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=67668207&ADP)
-
----
-
-### Fullstack Entwickler Backend (w/m/d) - AI-Native Software Engineering 
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAFÜR BRAUCHEN WIR DICH Wir suchen Entwicklerinnen und Entwickler, die die Zukunft der Softwareentwicklung aktiv mitgestalten wollen: mit gelebter Erfahrung in Agentic Coding und modernen KI-Workflows, nicht nur mit der Bereitschaft, sie irgendwann mal auszuprobieren. Dabei erklären wir dir nicht, wie du deinen Job machen sollst – weder hier noch später, wenn du bei uns startest. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66715143) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66715143&ADP)
 
 ---
 
