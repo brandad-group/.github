@@ -17,7 +17,18 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-11-20, 07:07)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-11-21, 07:05)
+
+### Senior Sales & Business Development Manager – Software & AI (w/m/d)
+
+- **Wo?** Fürth, Deutschland
+- **Wer?** mit Berufserfahrung
+- **Wie?** Festanstellung in Vollzeit
+- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
+- **Was? (automatisch gekürzt)** Und bei dieser Stelle meinen wir das ziemlich wörtlich: Unser Vertrieb ist kein fertiges System, das du übernimmst. Du baust es mit uns auf. ...
+- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/67887747) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=67887747&ADP)
+
+---
 
 ### Fullstack Entwickler Backend (w/m/d) - AI-Native Software Engineering 
 
@@ -49,17 +60,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als Systemadministrator (w/m/d) sorgst du dafür, dass unsere interne IT-Infrastruktur zuverlässig, sicher und zukunftsfähig aufgestellt ist. Ein besonderer Schwerpunkt deiner Rolle liegt auf der Informationssicherheit und unserem Informationssicherheitsmanagementsystem (ISMS). ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/67978952) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=67978952&ADP)
-
----
-
-### Senior Sales & Business Development Manager – Software & AI (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** Und bei dieser Stelle meinen wir das ziemlich wörtlich: Unser Vertrieb ist kein fertiges System, das du übernimmst. Du baust es mit uns auf. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/67887747) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=67887747&ADP)
 
 ---
 
