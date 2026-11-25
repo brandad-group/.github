@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-11-24, 07:06)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-11-25, 07:07)
 
 ### Senior Sales & Business Development Manager – Software & AI (w/m/d)
 
