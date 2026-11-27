@@ -17,7 +17,7 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 
 ---
 
-## aktuelle Jobs (zuletzt aktualisiert: 2026-11-26, 07:06)
+## aktuelle Jobs (zuletzt aktualisiert: 2026-11-27, 07:06)
 
 ### Senior Sales & Business Development Manager – Software & AI (w/m/d)
 
@@ -126,17 +126,6 @@ Und falls du Scrum Masterin oder Fullstack-Entwickler bist, dann bewerben wir un
 - **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
 - **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE: Als "Koordinator" fühlst du dich dem erfolgreichen Ablauf technischer MarTech-Projekte verpflichtet und setzt deinen Fokus auf die technische Umsetzung sowie die Zusammenarbeit zwischen Kunden, Fachbereichen und Entwicklungsteams. Ergänzend sorgst du im Support für eine zuverlässige Betreuung der eingesetzten Lösungen, koordinierst technische Anfragen und treibst dere nachhaltige Optimierung voran. ...
 - **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66139643) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66139643&ADP)
-
----
-
-### Technischer Kundenberater (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE:  Als Kundenberater begleitest du unsere Kunden bei der technischen Nutzung unserer Lösungen und verbindest ihre fachlichen Anforderungen mit den passenden technischen Möglichkeiten. Mit deinem Beratungsansatz schaffst du nachhaltige Lösungen, baust vertrauensvolle Kundenbeziehungen auf und sorgst für eine erfolgreiche Zusammenarbeit über den gesamten Projektverlauf hinweg. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66139633) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66139633&ADP)
 
 ---
 

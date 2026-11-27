@@ -108,17 +108,6 @@
 
 ---
 
-### Technischer Kundenberater (w/m/d)
-
-- **Wo?** Fürth, Deutschland
-- **Wer?** mit Berufserfahrung
-- **Wie?** Festanstellung in Vollzeit
-- **Wie genau?** flexibles Arbeiten von Zuhause aus möglich
-- **Was? (automatisch gekürzt)** DAS IST DEINE ROLLE:  Als Kundenberater begleitest du unsere Kunden bei der technischen Nutzung unserer Lösungen und verbindest ihre fachlichen Anforderungen mit den passenden technischen Möglichkeiten. Mit deinem Beratungsansatz schaffst du nachhaltige Lösungen, baust vertrauensvolle Kundenbeziehungen auf und sorgst für eine erfolgreiche Zusammenarbeit über den gesamten Projektverlauf hinweg. ...
-- **Was jetzt?** [Vollständige Beschreibung, alle Infos](https://brandad.softgarden.io/job/66139633) oder [direkt bewerben](https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=66139633&ADP)
-
----
-
 ### Technischer Product Owner (w/m/d)  
 
 - **Wo?** Fürth, Deutschland
